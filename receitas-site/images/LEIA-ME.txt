@@ -1,0 +1,7 @@
+Coloque aqui suas fotos reais (JPG, ate ~150 KB cada, 800x600 px).
+Nomes esperados: hero-mesa-posta.jpg, pao-de-queijo.jpg, omelete-forno.jpg, panqueca-americana.jpg,
+bolo-de-fuba.jpg, frango-grelhado.jpg, arroz-de-forno.jpg, sopa-de-legumes.jpg, salada-caesar.jpg,
+macarrao-alho-oleo.jpg, brigadeiro.jpg, bolo-de-cenoura.jpg, feijao-tropeiro.jpg, estrogonofe-frango.jpg,
+pao-caseiro.jpg, torta-liquidificador.jpg, risoto-tomate.jpg, salmao-forno.jpg, mousse-maracuja.jpg,
+vitamina-banana.jpg, pizza-panela.jpg
+Fontes gratuitas: unsplash.com, pexels.com, pixabay.com (ou fotos que voce mesmo tirar).
