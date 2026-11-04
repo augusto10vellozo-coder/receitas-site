@@ -1,0 +1,336 @@
+[
+  {
+    "ordem": 6,
+    "slug": "arroz-de-forno",
+    "titulo": "Arroz de forno cremoso com frango",
+    "categoria": "Almoço",
+    "imagem": "images/arroz-de-forno.jpg",
+    "descricao": "Arroz de forno cremoso gratinado com frango desfiado, milho e mussarela. Receita de aproveitamento que rende 6 porções e vai ao forno em 45 minutos.",
+    "chamada": "A melhor forma de reaproveitar arroz e frango do dia anterior: cremoso por dentro, gratinado por cima, pronto em uma travessa só.",
+    "tempoTexto": "45 min",
+    "minutosPreparo": 15,
+    "minutosFogo": 25,
+    "minutosEspera": 5,
+    "porcoes": "6 porções",
+    "dificuldade": "Médio",
+    "palavrasChave": ["arroz de forno", "arroz de forno com frango", "reaproveitar arroz", "receita com frango desfiado"],
+    "ingredientes": [
+      "3 xícaras de arroz branco já cozido e frio",
+      "2 xícaras de frango cozido e desfiado",
+      "1 caixa (200 g) de creme de leite",
+      "1/2 xícara (120 ml) de leite",
+      "1 xícara de milho verde escorrido",
+      "1 tomate médio picado sem sementes",
+      "150 g de mussarela ralada",
+      "2 colheres de sopa de cheiro-verde",
+      "1 colher de sopa de manteiga",
+      "Sal, pimenta-do-reino e noz-moscada a gosto"
+    ],
+    "passos": [
+      "Pré-aqueça o forno a 200 °C e unte um refratário de 22 x 30 cm com manteiga.",
+      "Em uma tigela grande, misture o arroz frio, o frango, o milho, o tomate, o creme de leite e o leite. O arroz precisa estar frio: quente, ele absorve o creme e o prato fica seco.",
+      "Tempere com sal, pimenta e uma pitada de noz-moscada. Prove antes de levar ao forno — o queijo ainda vai salgar mais.",
+      "Espalhe no refratário, nivele com as costas da colher e cubra com a mussarela.",
+      "Asse por 20 a 25 minutos, até o queijo derreter e formar bolhas douradas nas bordas.",
+      "Salpique o cheiro-verde e espere 5 minutos antes de servir: o creme assenta e o prato não escorre."
+    ],
+    "introducao": [
+      "Arroz de forno é receita de aproveitamento, e o resultado depende de dois detalhes: o arroz precisa estar frio e o creme precisa de um pouco de leite para não secar no forno. Arroz recém-feito continua cozinhando dentro do forno e vira papa.",
+      "A proporção de uma caixa de creme de leite para três xícaras de arroz deixa o prato cremoso sem ser sopa. Se você usar arroz integral, junte mais 1/4 de xícara de leite, porque ele absorve mais."
+    ],
+    "dicas": [
+      "Frango assado ou cozido rende mais sabor que peito grelhado. Aproveite sobras de domingo.",
+      "Escorra bem o milho e seque o tomate em papel-toalha para o prato não soltar água.",
+      "Para gratinar de verdade, use mussarela ralada grossa e os últimos 5 minutos na função grill.",
+      "Se a mistura parecer seca antes de assar, acrescente 1/4 de xícara de leite ou 2 colheres de requeijão.",
+      "Faça na véspera e leve ao forno no dia: o sabor fica mais intenso."
+    ],
+    "variacoes": [
+      "Com legumes: acrescente 1 xícara de brócolis cozido e 1/2 xícara de cenoura em cubos.",
+      "Com bacon: frite 100 g de bacon em cubos e espalhe por cima antes do queijo.",
+      "Vegetariano: troque o frango por grão-de-bico cozido e tempere com páprica."
+    ],
+    "conservacao": "Na geladeira, em pote fechado, dura 3 dias. Reaqueça coberto com papel-alumínio a 180 °C por 15 minutos. Não congele depois de assado: o arroz solta água e a textura fica mole.",
+    "faq": [
+      {
+        "pergunta": "Posso usar arroz recém-cozido?",
+        "resposta": "Pode, mas espalhe em uma assadeira e leve à geladeira por 20 minutos antes de montar. Assim ele perde o excesso de vapor."
+      },
+      {
+        "pergunta": "Por que meu arroz de forno ficou seco?",
+        "resposta": "Faltou líquido ou o forno estava alto demais. Use a proporção da receita e cubra com papel-alumínio nos primeiros 15 minutos."
+      },
+      {
+        "pergunta": "Dá para montar no dia anterior?",
+        "resposta": "Sim, monta bem. Guarde coberto na geladeira e asse direto, somando 10 minutos ao tempo."
+      }
+    ],
+    "publicado": "2026-10-10",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 7,
+    "slug": "sopa-de-legumes",
+    "titulo": "Sopa de legumes cremosa e reconfortante",
+    "categoria": "Jantar",
+    "imagem": "images/sopa-de-legumes.jpg",
+    "descricao": "Sopa de legumes com caldo caseiro, cenoura, batata e abobrinha. Pronta em 40 minutos, rende 4 porções e aceita liquidificador para ficar cremosa.",
+    "chamada": "Sopa de legumes de verdade: caldo com sabor, legumes no ponto e a opção de bater para virar creme.",
+    "tempoTexto": "40 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 25,
+    "minutosEspera": 5,
+    "porcoes": "4 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["sopa de legumes", "sopa cremosa", "jantar leve", "receita de sopa fácil"],
+    "ingredientes": [
+      "2 cenouras médias em rodelas",
+      "2 batatas médias em cubos",
+      "1 abobrinha média em cubos",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1,2 litro de caldo de legumes (ou água + 1 tablete)",
+      "2 colheres de sopa de azeite",
+      "1 folha de louro",
+      "Sal, pimenta e salsinha a gosto"
+    ],
+    "passos": [
+      "Aqueça o azeite em uma panela grande e refogue a cebola por 3 minutos, até ficar transparente.",
+      "Junte o alho e refogue 30 segundos — mais que isso e ele amarga.",
+      "Acrescente a cenoura e a batata e mexa por 2 minutos. Esse passo cria sabor antes do líquido entrar.",
+      "Adicione o caldo e o louro, tampe e cozinhe em fogo médio por 15 minutos.",
+      "Junte a abobrinha e cozinhe por mais 8 minutos. Ela entra depois porque cozinha rápido e desmancha fácil.",
+      "Ajuste o sal e a pimenta. Para sopa cremosa, bata metade com o mixer ou no liquidificador e volte à panela.",
+      "Finalize com salsinha picada e um fio de azeite cru por cima."
+    ],
+    "introducao": [
+      "Sopa de legumes sem graça é sopa de água com legume. O que muda o resultado são os dois minutos de refogado antes do caldo e a ordem em que os legumes entram na panela: os duros primeiro, os macios depois.",
+      "A versão cremosa não leva creme de leite. Bater metade da sopa engrossa o caldo naturalmente, com o amido da batata, e mantém pedaços para dar textura. É mais leve e congela melhor."
+    ],
+    "dicas": [
+      "Corte os legumes em tamanhos parecidos; assim cozinham no mesmo tempo.",
+      "Se usar caldo de tablete, prove antes de salgar — ele já tem sal.",
+      "O louro faz diferença: 1 folha por panela, retirada no fim.",
+      "Para sopa mais encorpada, acrescente 1 batata extra e amasse com garfo.",
+      "Salsinha e cebolinha só no fim, com o fogo desligado, para manter o aroma."
+    ],
+    "variacoes": [
+      "Com macarrão: adicione 100 g de macarrão pequeno nos últimos 10 minutos e ajuste o caldo.",
+      "Com frango: junte 1 xícara de frango desfiado cozido junto com a abobrinha.",
+      "Low carb: troque a batata por couve-flor e bata tudo no liquidificador."
+    ],
+    "conservacao": "Geladeira por 4 dias ou freezer por 3 meses, em porções. Reaqueça em fogo baixo e ajuste o sal, porque o sabor intensifica no dia seguinte.",
+    "faq": [
+      {
+        "pergunta": "Posso bater tudo no liquidificador?",
+        "resposta": "Pode, mas espere amornar e bata em etapas, com a tampa entreaberta, para o vapor não empurrar a tampa. Sopas quentes expandem muito."
+      },
+      {
+        "pergunta": "Como deixar a sopa mais nutritiva?",
+        "resposta": "Acrescente 1/2 xícara de lentilha cozida ou grão-de-bico e finalize com azeite cru, que preserva os compostos do azeite."
+      },
+      {
+        "pergunta": "Dá para fazer sem caldo pronto?",
+        "resposta": "Sim. Refogue uma cebola, uma cenoura e um talo de salsão com água por 20 minutos e coe: rende um caldo caseiro simples."
+      }
+    ],
+    "publicado": "2026-10-11",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 8,
+    "slug": "salada-caesar-simples",
+    "titulo": "Salada Caesar simples com molho caseiro",
+    "categoria": "Almoço",
+    "imagem": "images/salada-caesar.jpg",
+    "descricao": "Salada Caesar com molho cremoso caseiro, croutons crocantes e parmesão. Pronta em 20 minutos, serve 2 pessoas como prato principal.",
+    "chamada": "A clássica salada Caesar em versão prática: molho de 4 ingredientes, alface crocante e croutons feitos na frigideira.",
+    "tempoTexto": "20 min",
+    "minutosPreparo": 20,
+    "minutosFogo": 0,
+    "minutosEspera": 0,
+    "porcoes": "2 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["salada caesar", "molho caesar caseiro", "salada simples", "receita de salada"],
+    "ingredientes": [
+      "1 pé de alface romana (ou 2 pés pequenos)",
+      "1/2 xícara (100 g) de maionese",
+      "1 colher de sopa de suco de limão",
+      "1 dente de alho pequeno amassado",
+      "1 colher de chá de mostarda",
+      "3 colheres de sopa de parmesão ralado fino",
+      "2 fatias de pão de forma ou pão amanhecido",
+      "2 colheres de sopa de azeite",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "passos": [
+      "Lave a alface e seque bem com papel-toalha ou centrífuga. Folha molhada dilui o molho e murcha rápido.",
+      "Corte o pão em cubos de 1 cm. Aqueça o azeite em uma frigideira e doure os cubos por 4 a 5 minutos, mexendo, até ficarem crocantes. Reserve em papel-toalha.",
+      "Misture a maionese, o limão, o alho, a mostarda e 2 colheres do parmesão. Prove e ajuste com sal e pimenta.",
+      "Rasgue a alface em pedaços grandes com as mãos. Cortar com faca oxida a borda e ela escurece.",
+      "Misture o molho à alface na hora de servir, não antes. Finalize com os croutons e o parmesão restante."
+    ],
+    "introducao": [
+      "A Caesar original leva gema crua, anchova e bastante parmesão. A versão caseira com maionese resolve o risco da gema crua e mantém o sabor com mostarda e limão, que substituem parte da acidez e do salgado da anchova.",
+      "O ponto crítico é a ordem: molho por último, croutons por cima, e a salada montada só na hora. Caesar com molho descansando vira alface murcha em 10 minutos."
+    ],
+    "dicas": [
+      "Alface romana é a ideal porque tem folha firme e dobra sem quebrar.",
+      "Se gostar de anchova, acrescente 1 filé picado ao molho — é o que dá o sabor característico.",
+      "Croutons de pão amanhecido ficam melhores: menos umidade, mais crocância.",
+      "Molho mais leve: troque metade da maionese por iogurte natural integral.",
+      "Sirva em prato gelado para manter a folha crocante por mais tempo."
+    ],
+    "variacoes": [
+      "Com frango: adicione 1 peito grelhado em tiras e vire prato principal de verdade.",
+      "Com bacon: refogue 80 g de bacon em cubos e use no lugar dos croutons.",
+      "Sem maionese: bata 1 ovo, 1 colher de mostarda, 100 ml de óleo e suco de limão até emulsionar."
+    ],
+    "conservacao": "Molho separado dura 4 dias na geladeira. A salada pronta não guarda bem: monte só o que for comer. Croutons ficam crocantes por 2 dias em pote aberto.",
+    "faq": [
+      {
+        "pergunta": "Posso usar outra alface?",
+        "resposta": "Pode usar americana ou crespa, mas elas são mais macias e murcham mais rápido com o molho. Se usar, sirva imediatamente."
+      },
+      {
+        "pergunta": "O molho leva ovo cru?",
+        "resposta": "Nesta versão, não. Usamos maionese industrializada, que já é segura. A versão tradicional com gema crua exige ovo fresco e procedência confiável."
+      },
+      {
+        "pergunta": "Como fazer croutons no forno?",
+        "resposta": "Misture os cubos com azeite, sal e alho em pó e asse a 180 °C por 10 minutos, mexendo na metade."
+      }
+    ],
+    "publicado": "2026-10-12",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 9,
+    "slug": "macarrao-alho-e-oleo",
+    "titulo": "Macarrão alho e óleo em 20 minutos",
+    "categoria": "Jantar",
+    "imagem": "images/macarrao-alho-oleo.jpg",
+    "descricao": "Macarrão alho e óleo com alho dourado na medida, pimenta calabresa e água do cozimento para dar liga. Pronto em 20 minutos e serve 2 pessoas.",
+    "chamada": "O prato de emergência que funciona: cinco ingredientes, uma panela e vinte minutos do início ao prato.",
+    "tempoTexto": "20 min",
+    "minutosPreparo": 5,
+    "minutosFogo": 15,
+    "minutosEspera": 0,
+    "porcoes": "2 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["macarrão alho e óleo", "macarrão rápido", "receita de macarrão simples", "jantar em 20 minutos"],
+    "ingredientes": [
+      "200 g de espaguete ou linguine",
+      "4 dentes de alho fatiados finos",
+      "4 colheres de sopa de azeite",
+      "1/2 colher de chá de pimenta calabresa",
+      "1/2 xícara da água do cozimento do macarrão",
+      "2 colheres de sopa de salsinha picada",
+      "Sal a gosto"
+    ],
+    "passos": [
+      "Ferva 2 litros de água com 1 colher de sopa de sal. Coloque o macarrão e cozinhe 1 minuto menos que o tempo da embalagem.",
+      "Antes de escorrer, retire 1/2 xícara da água do cozimento. Ela tem amido e é o que dá liga ao molho.",
+      "Em uma frigideira larga, aqueça o azeite em fogo baixo e junte o alho fatiado. Doure por 2 a 3 minutos, mexendo, até ficar levemente dourado nas bordas.",
+      "Desligue o fogo e acrescente a pimenta calabresa. O alho queima em segundos, então ele sai do fogo antes de escurecer.",
+      "Transfira o macarrão escorrido para a frigideira, ligue o fogo baixo e adicione a água do cozimento aos poucos, mexendo até o molho envolver o macarrão.",
+      "Desligue, junte a salsinha e sirva imediatamente."
+    ],
+    "introducao": [
+      "Macarrão alho e óleo parece simples até o alho queimar. A diferença entre o prato bom e o amargo é fogo baixo e atenção: o alho passa do ponto em 20 segundos. Dourado claro é sabor; marrom escuro é amargor.",
+      "A água do cozimento é o segundo segredo. O amido dela emulsiona com o azeite e cria um molho que gruda no macarrão, em vez de escorrer para o fundo do prato."
+    ],
+    "dicas": [
+      "Fatie o alho na hora. Alho picado com antecedência perde aroma e fica mais ácido.",
+      "Salgue a água como se fosse cozinhar o macarrão para comer puro: é o único momento de temperar a massa.",
+      "Reserve a água antes de escorrer, não depois.",
+      "Frigideira larga é melhor que panela funda: o macarrão se espalha e o molho envolve por igual.",
+      "Se gostar de alho mais intenso, separe 1 dente cru e amasse no fim, com o fogo desligado."
+    ],
+    "variacoes": [
+      "Com camarão: doure 200 g de camarão limpo no alho e junte ao macarrão.",
+      "Com tomate: acrescente 1 tomate picado sem semente e deixe apurar 3 minutos.",
+      "Com parmesão: finalize com 2 colheres de parmesão ralado e pimenta-do-reino moída na hora."
+    ],
+    "conservacao": "Geladeira por 2 dias. Reaqueça na frigideira com 2 colheres de água para reviver o molho. Não congele: o macarrão perde a textura.",
+    "faq": [
+      {
+        "pergunta": "Por que meu alho ficou amargo?",
+        "resposta": "Passou do ponto. Doure em fogo baixo, retire do fogo assim que as bordas ficarem douradas e adicione o resto dos ingredientes com o fogo desligado."
+      },
+      {
+        "pergunta": "Posso usar óleo em vez de azeite?",
+        "resposta": "Pode, mas o sabor muda bastante. Se usar óleo, junte 1 colher de azeite no fim, com o fogo desligado, para recuperar o aroma."
+      },
+      {
+        "pergunta": "Qual macarrão combina mais?",
+        "resposta": "Espaguete, linguine e penne funcionam bem. Massas frescas cozinham em 3 minutos e pedem menos água no molho."
+      }
+    ],
+    "publicado": "2026-10-13",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 10,
+    "slug": "brigadeiro-de-colher",
+    "titulo": "Brigadeiro de colher cremoso",
+    "categoria": "Sobremesas",
+    "imagem": "images/brigadeiro.jpg",
+    "descricao": "Brigadeiro de colher com o ponto certo, cremoso e brilhante. Receita de 4 ingredientes, pronta em 20 minutos e rende 6 porções.",
+    "chamada": "O doce brasileiro mais amado, no ponto de colher: cremoso, brilhante e sem grumos.",
+    "tempoTexto": "20 min",
+    "minutosPreparo": 5,
+    "minutosFogo": 12,
+    "minutosEspera": 30,
+    "porcoes": "6 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["brigadeiro de colher", "brigadeiro cremoso", "doce de colher", "receita de brigadeiro"],
+    "ingredientes": [
+      "1 lata (395 g) de leite condensado",
+      "3 colheres de sopa (30 g) de chocolate em pó 50% cacau",
+      "1 colher de sopa (15 g) de manteiga sem sal",
+      "1 pitada de sal",
+      "Chocolate granulado para finalizar (opcional)"
+    ],
+    "passos": [
+      "Misture o leite condensado, o chocolate em pó e o sal em uma panela de fundo grosso, ainda fora do fogo, até dissolver o chocolate. Isso evita grumos.",
+      "Ligue o fogo baixo, junte a manteiga e mexa sem parar com espátula de silicone, raspando o fundo e as laterais.",
+      "Cozinhe por 10 a 12 minutos, até a mistura engrossar e desgrudar do fundo da panela. Ela deve cair da espátula em fita, não em bloco.",
+      "Desligue e transfira para um refratário ou potinhos. Não deixe na panela quente: o calor residual continua cozinhando e o doce fica firme demais.",
+      "Espere esfriar por 30 minutos. Sirva em potinhos com granulado por cima."
+    ],
+    "introducao": [
+      "Brigadeiro de colher é a mesma base do brigadeiro de festa, com menos tempo de fogo. O ponto de colher é quando a mistura engrossa, mas ainda escorre em fita da espátula — cerca de 10 minutos em fogo baixo.",
+      "O chocolate em pó 50% cacau dá sabor mais intenso que o achocolatado, que tem mais açúcar e menos cacau. A pitada de sal não deixa o doce salgado: ela corta o excesso de açúcar e faz o chocolate aparecer."
+    ],
+    "dicas": [
+      "Panela de fundo grosso evita que o doce queime antes de engrossar.",
+      "Mexa sem parar, sempre raspando o fundo. Brigadeiro queima em segundos quando o açúcar começa a caramelizar.",
+      "Não aumente o fogo para acelerar: o doce talha e fica arenoso.",
+      "Para enrolar, cozinhe 3 minutos a mais, até desgrudar completamente do fundo.",
+      "Se endurecer demais, volte à panela com 1 colher de leite e mexa em fogo baixo."
+    ],
+    "variacoes": [
+      "Com café: acrescente 1 colher de chá de café solúvel dissolvido em 1 colher de água.",
+      "Com castanha: misture 1/2 xícara de castanha-do-pará picada depois de desligar o fogo.",
+      "De colher com morango: sirva sobre morangos frescos em taças, em vez de granulado."
+    ],
+    "conservacao": "Em pote fechado na geladeira, dura 5 dias. Reaqueça 20 segundos no micro-ondas para voltar à consistência cremosa. Congela por até 2 meses em porções.",
+    "faq": [
+      {
+        "pergunta": "Posso usar achocolatado em pó?",
+        "resposta": "Pode, mas o sabor fica mais doce e menos intenso. Se usar, reduza a manteiga para 1/2 colher e não acrescente açúcar."
+      },
+      {
+        "pergunta": "Por que o brigadeiro ficou arenoso?",
+        "resposta": "Fogo alto ou chocolate adicionado com o leite já quente. Dissolva o chocolate no leite condensado frio e cozinhe sempre em fogo baixo."
+      },
+      {
+        "pergunta": "Quanto tempo leva para o ponto de enrolar?",
+        "resposta": "Cerca de 15 minutos em fogo baixo, até a mistura desgrudar totalmente do fundo da panela e formar uma bola ao esfriar."
+      }
+    ],
+    "publicado": "2026-10-14",
+    "atualizado": "2026-11-03"
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "ordem": 11,
+    "slug": "bolo-de-cenoura-com-cobertura",
+    "titulo": "Bolo de cenoura fofinho com cobertura de chocolate",
+    "categoria": "Sobremesas",
+    "imagem": "images/bolo-de-cenoura.jpg",
+    "descricao": "Bolo de cenoura de liquidificador, fofinho e úmido, com cobertura de chocolate brilhante que não endurece. Rende 10 fatias.",
+    "chamada": "O bolo de cenoura brasileiro como deve ser: massa fofa, sabor de cenoura de verdade e cobertura cremosa.",
+    "tempoTexto": "1 hora",
+    "minutosPreparo": 15,
+    "minutosFogo": 40,
+    "minutosEspera": 20,
+    "porcoes": "10 fatias",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["bolo de cenoura", "bolo de cenoura com chocolate", "bolo de liquidificador", "receita de bolo caseiro"],
+    "ingredientes": [
+      "3 cenouras médias (cerca de 300 g) picadas",
+      "4 ovos grandes",
+      "1 xícara (240 ml) de óleo vegetal",
+      "2 xícaras (400 g) de açúcar",
+      "2 e 1/2 xícaras (350 g) de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "1 pitada de sal",
+      "Cobertura: 1 xícara (200 g) de açúcar",
+      "Cobertura: 4 colheres de sopa de chocolate em pó 50%",
+      "Cobertura: 3 colheres de sopa de manteiga",
+      "Cobertura: 1/2 xícara (120 ml) de leite"
+    ],
+    "passos": [
+      "Pré-aqueça o forno a 180 °C e unte uma forma retangular de 24 x 30 cm com manteiga e farinha.",
+      "Bata no liquidificador as cenouras, os ovos e o óleo por 3 minutos, até não restar pedaço de cenoura. Massa com pedaços não assa por igual.",
+      "Transfira para uma tigela grande e misture o açúcar e o sal com um fouet.",
+      "Acrescente a farinha peneirada em duas etapas, mexendo com espátula até incorporar. Não bata: farinha batida desenvolve glúten e o bolo fica borrachudo.",
+      "Adicione o fermento por último, com movimentos suaves, só até desaparecer na massa.",
+      "Asse por 35 a 40 minutos. Faça o teste do palito no centro: deve sair com migalhas úmidas, sem massa crua.",
+      "Para a cobertura, leve ao fogo médio o açúcar, o chocolate, a manteiga e o leite, mexendo até engrossar, cerca de 6 a 8 minutos. Despeje quente sobre o bolo já frio."
+    ],
+    "introducao": [
+      "Bolo de cenoura fofinho depende de três coisas: cenoura bem batida, farinha peneirada e fermento por último. Se a massa ficar com pedaços, eles afundam e criam bolsões úmidos; se a farinha for batida demais, o glúten endurece o bolo.",
+      "A cobertura é o outro ponto. A versão de panela, com leite, fica cremosa e brilhante, ao contrário daquelas coberturas de chocolate que esfriam duras como casquinha. Despeje quente sobre o bolo frio para não escorrer até o fundo."
+    ],
+    "dicas": [
+      "Cenoura bem madura dá mais doçura e cor; cenoura velha e fibrosa deixa o bolo seco.",
+      "Peneire a farinha e o fermento juntos para distribuir o fermento por igual.",
+      "Não unte a forma com óleo: a massa já tem óleo suficiente. Manteiga e farinha seguram melhor.",
+      "O bolo cresce mais em forma retangular que em forma de furo, porque o calor se distribui melhor.",
+      "Cobertura endureceu? Volte ao fogo com 1 colher de leite e mexa até amolecer."
+    ],
+    "variacoes": [
+      "Com chocolate na massa: acrescente 3 colheres de chocolate em pó junto com a farinha.",
+      "Sem lactose: troque o leite da cobertura por bebida vegetal e a manteiga por margarina sem lactose.",
+      "Com castanha: espalhe 1/2 xícara de castanha-de-caju picada sobre a cobertura ainda quente."
+    ],
+    "conservacao": "Em pote fechado, dura 3 dias fora da geladeira e 5 dias na geladeira. Fatias congelam por 2 meses; descongele na geladeira e aqueça 15 segundos no micro-ondas.",
+    "faq": [
+      {
+        "pergunta": "Por que meu bolo de cenoura afundou no meio?",
+        "resposta": "Quase sempre é fermento vencido ou forno aberto durante o crescimento. Não abra o forno nos primeiros 25 minutos e confira a validade do fermento."
+      },
+      {
+        "pergunta": "Posso bater a farinha no liquidificador?",
+        "resposta": "Não. O liquidificador bate a farinha por tempo demais e o bolo fica denso. Bata só os líquidos e misture a farinha à mão."
+      },
+      {
+        "pergunta": "Dá para fazer em forma de furo?",
+        "resposta": "Dá, mas o tempo cai para 30 a 35 minutos e a massa assa mais rápido nas bordas. Use forma de 24 cm de diâmetro."
+      }
+    ],
+    "publicado": "2026-10-15",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 12,
+    "slug": "feijao-tropeiro-simples",
+    "titulo": "Feijão tropeiro simples com bacon e ovo",
+    "categoria": "Almoço",
+    "imagem": "images/feijao-tropeiro.jpg",
+    "descricao": "Feijão tropeiro mineiro com bacon, ovos, farinha de mandioca e cheiro-verde. Pronto em 35 minutos, rende 4 porções e usa feijão já cozido.",
+    "chamada": "Prato mineiro de verdade, feito com feijão já cozido: bacon crocante, ovo mexido e farinha no ponto certo.",
+    "tempoTexto": "35 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 20,
+    "minutosEspera": 5,
+    "porcoes": "4 porções",
+    "dificuldade": "Médio",
+    "palavrasChave": ["feijão tropeiro", "feijão tropeiro simples", "comida mineira", "receita com feijão"],
+    "ingredientes": [
+      "3 xícaras de feijão carioca cozido e bem escorrido",
+      "150 g de bacon em cubos",
+      "2 ovos",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1 xícara (100 g) de farinha de mandioca torrada",
+      "3 colheres de sopa de cheiro-verde",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "passos": [
+      "Cozinhe o feijão até ficar macio, mas não desmanchado, e escorra bem. Feijão molhado empapa a farinha.",
+      "Frite o bacon em fogo médio até dourar e soltar a gordura. Retire o bacon e deixe 2 colheres da gordura na panela.",
+      "Refogue a cebola nessa gordura por 4 minutos, junte o alho e mexa por 30 segundos.",
+      "Acrescente os ovos e mexa como ovo mexido, até firmarem em pedaços pequenos.",
+      "Junte o feijão e o bacon, tempere com sal e pimenta e mexa por 3 minutos para aquecer tudo.",
+      "Adicione a farinha aos poucos, mexendo sem parar. O ponto é quando a farinha absorve a umidade e o prato fica soltinho, não seco.",
+      "Desligue, misture o cheiro-verde e sirva com arroz branco e couve refogada."
+    ],
+    "introducao": [
+      "Feijão tropeiro é um prato de textura: cada grão de feijão deve estar envolvido pela farinha, sem virar papa nem areia. O segredo está em escorrer bem o feijão e adicionar a farinha aos poucos, com a panela no fogo baixo.",
+      "A receita tradicional leva carne-seca, linguiça e torresmo. Esta versão com bacon mantém o sabor defumado e fica pronta em meia hora, usando feijão do dia anterior ou de lata."
+    ],
+    "dicas": [
+      "Feijão de lata funciona, mas lave em água corrente para tirar o excesso de sal e o caldo grosso.",
+      "A gordura do bacon é o tempero principal. Não escorra tudo.",
+      "Farinha de mandioca torrada (biju) dá crocância; a farinha crua deixa o prato pesado.",
+      "Se o tropeiro ficar seco, acrescente 2 colheres de caldo de feijão; se ficar úmido, mais 2 colheres de farinha.",
+      "Sirva na hora: farinha guardada perde a crocância."
+    ],
+    "variacoes": [
+      "Com linguiça: troque metade do bacon por linguiça calabresa em cubos.",
+      "Com couve: refogue 2 xícaras de couve fatiada e misture no fim.",
+      "Vegetariano: use óleo, cebola, alho e 1 colher de páprica defumada no lugar do bacon."
+    ],
+    "conservacao": "Geladeira por 3 dias. Reaqueça na frigideira com 1 colher de água e acrescente um punhado de farinha fresca para recuperar a textura. Não congele.",
+    "faq": [
+      {
+        "pergunta": "Qual feijão usar?",
+        "resposta": "Carioca é o tradicional. O feijão-preto também funciona, mas deixa o prato mais escuro e com sabor mais forte."
+      },
+      {
+        "pergunta": "Posso fazer sem farinha?",
+        "resposta": "Sem farinha não é tropeiro, é feijão com bacon. Se quiser reduzir carboidrato, use metade da farinha e acrescente couve refogada."
+      },
+      {
+        "pergunta": "Como deixar o prato mais sequinho?",
+        "resposta": "Escorra o feijão por 10 minutos em peneira e use fogo baixo ao adicionar a farinha, mexendo até soltar do fundo."
+      }
+    ],
+    "publicado": "2026-10-16",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 13,
+    "slug": "estrogonofe-de-frango",
+    "titulo": "Estrogonofe de frango cremoso",
+    "categoria": "Jantar",
+    "imagem": "images/estrogonofe-frango.jpg",
+    "descricao": "Estrogonofe de frango cremoso com mostarda e molho de tomate, pronto em 35 minutos. Rende 4 porções e combina com arroz e batata palha.",
+    "chamada": "Cremoso, com acidez na medida e pronto em meia hora — o clássico que nunca falha no jantar.",
+    "tempoTexto": "35 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 20,
+    "minutosEspera": 0,
+    "porcoes": "4 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["estrogonofe de frango", "strogonoff", "jantar rápido", "receita com creme de leite"],
+    "ingredientes": [
+      "500 g de peito de frango em cubos de 2 cm",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "2 colheres de sopa de manteiga",
+      "2 colheres de sopa de molho de tomate",
+      "1 colher de sopa de mostarda",
+      "1 colher de chá de páprica defumada",
+      "1 caixa (200 g) de creme de leite",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "passos": [
+      "Tempere o frango com sal, pimenta e páprica e deixe descansar 10 minutos.",
+      "Aqueça a manteiga em fogo alto e doure o frango em duas etapas, sem mexer nos primeiros 2 minutos. Frango em panela cheia cozinha no vapor e não doura.",
+      "Retire o frango, baixe o fogo e refogue a cebola por 4 minutos. Junte o alho e mexa 30 segundos.",
+      "Acrescente o molho de tomate e a mostarda e mexa para soltar o fundo da panela.",
+      "Volte o frango com o suco que soltou e cozinhe por 5 minutos em fogo baixo.",
+      "Desligue o fogo, junte o creme de leite e mexa. Creme de leite em fervura talha — por isso ele entra com o fogo desligado.",
+      "Sirva com arroz branco e batata palha."
+    ],
+    "introducao": [
+      "O erro clássico do estrogonofe é ferver o creme de leite. Ele talha e o molho fica com grumos. A correção é simples: desligue o fogo antes de adicionar e mexa só até incorporar.",
+      "A mostarda e o molho de tomate substituem o ketchup industrializado e dão acidez e corpo ao molho. A páprica defumada ajuda a compensar a falta de bacon ou caldo de carne em uma versão mais leve."
+    ],
+    "dicas": [
+      "Doure o frango em fogo alto e em etapas: é o que dá sabor ao molho.",
+      "Cubos do mesmo tamanho cozinham por igual.",
+      "Se o molho ficar ralo, deixe reduzir 2 minutos antes de desligar o fogo e só depois acrescente o creme.",
+      "Creme de leite fresco (35% de gordura) não talha tão fácil e deixa o molho mais sedoso.",
+      "Não congele com creme de leite: a textura muda ao descongelar."
+    ],
+    "variacoes": [
+      "Com carne: use 500 g de alcatra ou filé mignon em tiras no lugar do frango.",
+      "Com champignon: acrescente 1 xícara de champignon fatiado junto com o molho de tomate.",
+      "Light: troque o creme de leite por 1 copo de iogurte natural integral, acrescentado com o fogo desligado."
+    ],
+    "conservacao": "Geladeira por 3 dias. Reaqueça em fogo baixo com 1 colher de leite, sem deixar ferver. Não congele.",
+    "faq": [
+      {
+        "pergunta": "Por que o creme de leite talhou?",
+        "resposta": "O molho estava fervendo quando ele entrou. Desligue o fogo, espere 30 segundos e mexa o creme de leite delicadamente."
+      },
+      {
+        "pergunta": "Posso usar frango desfiado?",
+        "resposta": "Pode, mas o prato fica com textura de recheio. Se usar, adicione o frango desfiado junto com o molho de tomate e reduza o tempo de fogo."
+      },
+      {
+        "pergunta": "Dá para fazer sem molho de tomate?",
+        "resposta": "Sim. Use 1 tomate maduro picado sem semente e deixe apurar por 5 minutos antes de acrescentar o creme."
+      }
+    ],
+    "publicado": "2026-10-17",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 14,
+    "slug": "pao-caseiro-facil",
+    "titulo": "Pão caseiro fácil de farinha branca",
+    "categoria": "Café da manhã",
+    "imagem": "images/pao-caseiro.jpg",
+    "descricao": "Pão caseiro macio com fermento biológico seco, pronto em 2 horas. Passo a passo do ponto da massa, do descanso e do forno.",
+    "chamada": "Pão de forma caseiro, macio e levemente adocicado — sem máquina de pão e sem sova de 20 minutos.",
+    "tempoTexto": "2 horas",
+    "minutosPreparo": 20,
+    "minutosFogo": 35,
+    "minutosEspera": 90,
+    "porcoes": "1 pão grande (10 fatias)",
+    "dificuldade": "Médio",
+    "palavrasChave": ["pão caseiro", "pão caseiro fácil", "pão de forma caseiro", "receita de pão com fermento seco"],
+    "ingredientes": [
+      "500 g de farinha de trigo (aproximadamente 4 xícaras)",
+      "10 g de fermento biológico seco",
+      "1 colher de sopa de açúcar",
+      "1 colher de chá de sal",
+      "2 colheres de sopa de óleo vegetal",
+      "300 ml de água morna (não quente)"
+    ],
+    "passos": [
+      "Misture o fermento, o açúcar e 100 ml da água morna em uma tigela e espere 5 minutos. Se formar espuma, o fermento está vivo — esse teste evita perder 2 horas.",
+      "Acrescente o restante da água, o óleo, o sal e metade da farinha. Mexa com colher até formar uma massa grudenta.",
+      "Adicione o restante da farinha aos poucos, sovando na tigela por 8 a 10 minutos, até a massa desgrudar das mãos e ficar lisa.",
+      "Cubra com pano e deixe descansar em local morno por 60 minutos, até dobrar de volume.",
+      "Modele o pão: achate a massa, enrole como um rocambole e coloque em forma de bolo inglês untada e enfarinhada.",
+      "Deixe crescer por mais 30 minutos, até a massa chegar perto da borda da forma.",
+      "Asse em forno pré-aquecido a 180 °C por 30 a 35 minutos. O pão está pronto quando a base soa oco ao bater e a superfície está dourada."
+    ],
+    "introducao": [
+      "Pão caseiro assusta por causa da sova, mas o que decide o resultado é o fermento e a temperatura da água. Água morna ativa o fermento; água quente mata, e água fria faz o pão demorar o dobro para crescer.",
+      "A sova de 10 minutos desenvolve o glúten que segura as bolhas de gás. Se a massa estiver grudenta demais, acrescente farinha 1 colher por vez — mas com cuidado: massa dura demais gera pão seco e denso."
+    ],
+    "dicas": [
+      "Teste o fermento na água com açúcar antes de começar. É o erro mais comum e o mais caro em tempo.",
+      "A água deve estar em temperatura de banho morno: se você não aguentar o dedo, está quente demais.",
+      "Sal nunca entra em contato direto com o fermento: ele inibe a fermentação.",
+      "Deixe crescer no forno desligado e morno, com a porta entreaberta, em dias frios.",
+      "Pincele leite ou ovo por cima antes de assar para a casca ficar brilhante."
+    ],
+    "variacoes": [
+      "Integral: troque 150 g da farinha branca por farinha integral e aumente a água em 30 ml.",
+      "Com ervas: acrescente 1 colher de sopa de orégano e 1 colher de chá de alho em pó à massa.",
+      "Com leite: substitua 150 ml da água por leite morno para um pão mais macio e levemente adocicado."
+    ],
+    "conservacao": "Em saco fechado, dura 3 dias fora da geladeira. Fatiado e congelado, dura 2 meses. Para reviver, borrife água e aqueça no forno a 150 °C por 5 minutos.",
+    "faq": [
+      {
+        "pergunta": "Por que o pão não cresceu?",
+        "resposta": "Fermento vencido, água quente demais ou ambiente frio. Faça o teste da espuma e deixe crescer em local abrigado."
+      },
+      {
+        "pergunta": "Posso fazer sem sova?",
+        "resposta": "Pode, em versão de fermentação longa: deixe a massa na geladeira por 12 horas e asse no dia seguinte. O pão fica com sabor mais complexo."
+      },
+      {
+        "pergunta": "Dá para usar fermento fresco?",
+        "resposta": "Sim, use 30 g de fermento biológico fresco para cada 500 g de farinha."
+      }
+    ],
+    "publicado": "2026-10-18",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 15,
+    "slug": "torta-de-liquidificador-de-frango",
+    "titulo": "Torta de liquidificador de frango cremosa",
+    "categoria": "Jantar",
+    "imagem": "images/torta-liquidificador.jpg",
+    "descricao": "Torta salgada de liquidificador com recheio de frango, milho e requeijão. Massa sem sova, pronta em 50 minutos e rende 8 porções.",
+    "chamada": "Massa líquida no liquidificador, recheio cremoso de frango e uma travessa: jantar completo sem abrir massa.",
+    "tempoTexto": "50 min",
+    "minutosPreparo": 15,
+    "minutosFogo": 35,
+    "minutosEspera": 10,
+    "porcoes": "8 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["torta de liquidificador", "torta de frango", "torta salgada fácil", "receita de torta cremosa"],
+    "ingredientes": [
+      "3 ovos",
+      "1 xícara (240 ml) de leite",
+      "1/2 xícara (120 ml) de óleo",
+      "2 xícaras (280 g) de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "1 colher de chá de sal",
+      "Recheio: 2 xícaras de frango cozido e desfiado",
+      "Recheio: 1 xícara de milho escorrido",
+      "Recheio: 3 colheres de sopa de requeijão",
+      "Recheio: 1 tomate picado sem sementes",
+      "Recheio: 100 g de mussarela ralada",
+      "Recheio: cheiro-verde, sal e pimenta a gosto"
+    ],
+    "passos": [
+      "Pré-aqueça o forno a 200 °C e unte um refratário de 22 x 30 cm com óleo e farinha.",
+      "Bata no liquidificador os ovos, o leite, o óleo e o sal por 1 minuto.",
+      "Acrescente a farinha e bata até ficar homogêneo. Junte o fermento e pulse duas vezes.",
+      "Misture o frango, o milho, o requeijão, o tomate e o cheiro-verde em uma tigela. Tempere e prove — o recheio precisa estar levemente mais salgado que o normal, porque a massa é neutra.",
+      "Despeje metade da massa no refratário, espalhe o recheio e cubra com o restante da massa.",
+      "Salpique a mussarela por cima e asse por 30 a 35 minutos, até dourar e firmar no centro.",
+      "Espere 10 minutos antes de cortar. Quente, a torta desmancha na fatia."
+    ],
+    "introducao": [
+      "Torta de liquidificador é a receita salgada mais prática que existe: a massa não precisa de sova nem de descanso, e o recheio aceita tudo que sobrou na geladeira. O único cuidado é não exagerar no líquido do recheio.",
+      "Tomate e milho soltam água no forno. Escorrer bem e secar o tomate em papel-toalha é o que impede a massa de ficar crua no fundo — o problema número um dessa receita."
+    ],
+    "dicas": [
+      "O requeijão no recheio funciona como barreira contra a umidade da massa.",
+      "Se usar frango temperado com molho, escorra antes de rechear.",
+      "Bata a massa só até incorporar; liquidificador em excesso deixa a torta borrachuda.",
+      "Para porção individual, use forminhas de muffin e asse por 20 minutos.",
+      "A torta assa melhor na parte de baixo do forno, com a assadeira apoiada na grade."
+    ],
+    "variacoes": [
+      "De atum: troque o frango por 2 latas de atum escorrido.",
+      "De legumes: use brócolis, cenoura ralada e palmito no lugar do frango.",
+      "Com catupiry: substitua o requeijão por catupiry e acrescente orégano por cima."
+    ],
+    "conservacao": "Geladeira por 3 dias, coberta. Reaqueça a 180 °C por 12 minutos. Fatias congelam por 2 meses e podem ir direto ao forno.",
+    "faq": [
+      {
+        "pergunta": "Por que a massa da torta ficou crua embaixo?",
+        "resposta": "Recheio muito úmido ou massa fina demais no fundo. Escorra o recheio, use a proporção da receita e asse na grade mais baixa."
+      },
+      {
+        "pergunta": "Posso usar farinha integral?",
+        "resposta": "Sim, até metade da farinha. A massa fica mais densa; acrescente 2 colheres de leite."
+      },
+      {
+        "pergunta": "Dá para montar e assar depois?",
+        "resposta": "Sim, monte, cubra e guarde na geladeira por até 12 horas. Asse direto, somando 10 minutos ao tempo."
+      }
+    ],
+    "publicado": "2026-10-19",
+    "atualizado": "2026-11-03"
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "ordem": 1,
+    "slug": "pao-de-queijo-simples",
+    "titulo": "Pão de queijo simples de liquidificador",
+    "categoria": "Café da manhã",
+    "imagem": "images/pao-de-queijo.jpg",
+    "descricao": "Pão de queijo mineiro de liquidificador, com casquinha crocante e miolo macio. Rendimento de 20 unidades e passo a passo com o ponto certo da massa.",
+    "chamada": "A receita clássica mineira feita no liquidificador, com casquinha crocante e miolo puxa-puxa — sem sovar e sem complicação.",
+    "tempoTexto": "35 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 25,
+    "minutosEspera": 0,
+    "porcoes": "20 unidades",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["pão de queijo", "pão de queijo de liquidificador", "receita mineira", "pão de queijo fácil"],
+    "ingredientes": [
+      "2 xícaras (240 g) de polvilho azedo",
+      "1 xícara (120 g) de polvilho doce",
+      "1 xícara (240 ml) de leite integral",
+      "1/2 xícara (120 ml) de óleo vegetal",
+      "2 ovos grandes em temperatura ambiente",
+      "200 g de queijo meia-cura ralado no ralo grosso",
+      "1 colher de chá de sal (rasa)"
+    ],
+    "passos": [
+      "Aqueça o leite com o óleo e o sal em uma panela, em fogo médio, até começar a levantar fervura. Desligue antes de ferver de verdade.",
+      "Despeje a mistura quente sobre os dois polvilhos em uma tigela grande e mexa com uma colher de pau. A massa fica grumosa e quente — é assim mesmo. Espere 5 minutos para não cozinhar os ovos.",
+      "Transfira a massa para o liquidificador, junte os ovos e bata por 1 a 2 minutos, em velocidade média, até ficar lisa e brilhante. Se seu liquidificador for fraco, bata em duas etapas.",
+      "Despeje de volta na tigela e misture o queijo ralado com uma colher. A massa deve ficar mole o suficiente para cair da colher, mas não líquida.",
+      "Unte forminhas de silicone ou de alumínio com óleo e preencha até 2/3 da capacidade. Se usar forminha de alumínio, unte bem o fundo para não grudar.",
+      "Asse em forno pré-aquecido a 200 °C por 20 a 25 minutos, na prateleira do meio, até os pães crescerem e ficarem dourados por cima. Não abra o forno nos primeiros 15 minutos."
+    ],
+    "introducao": [
+      "Pão de queijo é a receita que mais dá errado por um motivo simples: a temperatura do leite. Se ele ferver, o polvilho cozinha demais e a massa não cresce; se esfriar, o polvilho não hidrata e o pão fica pesado. O ponto certo é quando começam a subir bolhas pequenas na borda da panela.",
+      "Esta versão é feita no liquidificador porque ele resolve a única parte trabalhosa da receita, que é incorporar o polvilho sem deixar grumos. O resultado é uma massa lisa, que assa em 25 minutos e rende 20 unidades — o suficiente para o café da manhã de dois dias."
+    ],
+    "dicas": [
+      "Use queijo meia-cura ou canastra. Mussarela deixa o pão sem sabor e o queijo frescal solta água e murcha a massa.",
+      "O polvilho azedo é o responsável pela casquinha; o doce dá maciez. Trocar as proporções muda a textura, não é só substituição de nome.",
+      "Se a massa ficar dura depois de misturar o queijo, acrescente 1 colher de sopa de leite morno por vez até voltar ao ponto de colher.",
+      "Assadeira escura esquenta mais rápido: nesse caso, reduza o forno para 190 °C e aumente 5 minutos no tempo.",
+      "Pincele um fio de óleo por cima antes de assar para a casquinha ficar mais dourada."
+    ],
+    "variacoes": [
+      "Com recheio: faça uma bolinha com a massa, abra na mão, coloque um cubo de queijo ou requeijão e feche. Asse 3 minutos a mais.",
+      "De frigideira: coloque porções da massa em uma frigideira antiaderente untada, tampe e cozinhe em fogo baixo por 8 minutos de cada lado.",
+      "Integral: substitua metade do polvilho doce por polvilho doce integral. A massa fica mais densa, então junte 2 colheres de leite extra."
+    ],
+    "conservacao": "Fora da geladeira, dura 1 dia em pote fechado. Para congelar, asse até dourar, espere esfriar, congele em saco próprio por até 2 meses e aqueça em forno a 180 °C por 8 minutos. Massa crua também congela bem: modele as bolinhas, congele em assadeira e asse direto do freezer, somando 5 minutos ao tempo.",
+    "faq": [
+      {
+        "pergunta": "Por que meu pão de queijo não cresceu?",
+        "resposta": "Na maioria das vezes o leite não estava quente o suficiente para hidratar o polvilho, ou a massa descansou demais antes de assar. Use o leite quase fervendo e asse assim que modelar."
+      },
+      {
+        "pergunta": "Posso fazer sem liquidificador?",
+        "resposta": "Pode. Misture os ovos com a massa quente usando uma colher de pau e depois sove com as mãos untadas por 3 minutos, até a massa ficar homogênea."
+      },
+      {
+        "pergunta": "Dá para usar só polvilho azedo?",
+        "resposta": "Dá, mas o pão fica mais seco e com casquinha mais firme. Para um pão macio, mantenha pelo menos 1/3 de polvilho doce."
+      }
+    ],
+    "publicado": "2026-10-05",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 2,
+    "slug": "omelete-de-forno",
+    "titulo": "Omelete de forno fofinha para várias pessoas",
+    "categoria": "Café da manhã",
+    "imagem": "images/omelete-forno.jpg",
+    "descricao": "Omelete assada em forma única, fofinha e dourada, para servir 4 pessoas sem ficar na frente do fogão. Receita com tempo, rendimento e dicas de ponto.",
+    "chamada": "Uma omelete alta e fofinha, assada de uma vez só, ideal para café da manhã de família ou brunch de domingo.",
+    "tempoTexto": "25 min",
+    "minutosPreparo": 8,
+    "minutosFogo": 20,
+    "minutosEspera": 0,
+    "porcoes": "4 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["omelete de forno", "omelete fofinha", "café da manhã para família", "receita com ovos"],
+    "ingredientes": [
+      "6 ovos grandes",
+      "1/2 xícara (120 ml) de leite integral",
+      "1 tomate médio sem sementes, picado",
+      "1/2 cebola roxa picada fina",
+      "100 g de queijo muçarela ralado",
+      "2 colheres de sopa de cheiro-verde picado",
+      "1 colher de sopa de manteiga para untar",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "passos": [
+      "Pré-aqueça o forno a 180 °C e unte um refratário de 20 x 30 cm com manteiga.",
+      "Bata os ovos com o leite, o sal e a pimenta com um garfo por 1 minuto. Não precisa de batedeira: o objetivo é só misturar sem deixar fios de clara.",
+      "Seque o tomate com papel-toalha antes de picar. Esse passo evita que a omelete solte água no fundo da forma.",
+      "Misture o tomate, a cebola e metade do queijo à mistura de ovos e despeje na forma.",
+      "Espalhe o restante do queijo por cima e leve ao forno por 18 a 20 minutos, até o centro firmar e as bordas dourarem.",
+      "Salpique o cheiro-verde nos últimos 2 minutos de forno e sirva ainda quente, direto na forma."
+    ],
+    "introducao": [
+      "Omelete de forno resolve o problema de fazer ovos para muita gente ao mesmo tempo. Em vez de quatro frigideiras, você usa uma forma e o forno trabalha sozinho por 20 minutos. O segredo da textura fofinha é a proporção de leite e o tempo de forno: pouco leite deixa borrachuda, muito leite deixa aguada.",
+      "A versão abaixo usa 1/2 xícara de leite para 6 ovos, que é o ponto em que a omelete cresce, firma e continua macia depois de esfriar. Se quiser servir em fatias, deixe descansar 5 minutos antes de cortar."
+    ],
+    "dicas": [
+      "Ovos em temperatura ambiente batem mais fácil e incorporam mais ar — se estiverem na geladeira, coloque em água morna por 5 minutos.",
+      "Não bata demais: espuma em excesso faz a omelete crescer rápido e murchar quando sai do forno.",
+      "Tomate, abobrinha e cogumelo soltam água. Refogue rapidamente antes ou seque bem com papel-toalha.",
+      "Para porções individuais, use forminhas de muffin e reduza o tempo para 12 a 14 minutos.",
+      "Sal só no fim do batido: salgar antes e deixar descansar faz o ovo liberar água."
+    ],
+    "variacoes": [
+      "Com bacon: frite 100 g de bacon em cubos, escorra a gordura e misture aos ovos antes de assar.",
+      "Vegetariana reforçada: acrescente 1/2 xícara de brócolis cozido e 1/2 xícara de milho.",
+      "Com queijo de coalho: troque a muçarela por coalho em cubos e asse 5 minutos a mais para dourar."
+    ],
+    "conservacao": "Guarde em pote fechado na geladeira por até 3 dias. Reaqueça no micro-ondas por 40 segundos ou em forno a 160 °C por 8 minutos. Não congele: a textura fica esponjosa e solta água ao descongelar.",
+    "faq": [
+      {
+        "pergunta": "Por que minha omelete de forno murchou?",
+        "resposta": "Provavelmente foi batida demais ou assou em forno muito alto e depois esfriou de repente. Bata só até misturar e mantenha o forno a 180 °C."
+      },
+      {
+        "pergunta": "Posso usar só clara?",
+        "resposta": "Pode, mas a omelete fica mais firme e menos saborosa. Use 8 claras e 1 gema para manter alguma maciez."
+      },
+      {
+        "pergunta": "Dá para preparar na noite anterior?",
+        "resposta": "Sim. Bata a mistura, guarde em pote fechado na geladeira e asse no dia seguinte, mexendo antes de levar ao forno."
+      }
+    ],
+    "publicado": "2026-10-06",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 3,
+    "slug": "panqueca-americana",
+    "titulo": "Panqueca americana fofinha (pancake)",
+    "categoria": "Café da manhã",
+    "imagem": "images/panqueca-americana.jpg",
+    "descricao": "Panqueca americana alta e macia, com a proporção certa de fermento e leite. Pronta em 20 minutos e rende 9 discos médios.",
+    "chamada": "Panquecas altas, macias e douradas — a receita base que aceita mel, frutas, geleia ou xarope sem desandar.",
+    "tempoTexto": "20 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 10,
+    "minutosEspera": 5,
+    "porcoes": "3 porções (9 panquecas)",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["panqueca americana", "pancake", "receita de panqueca fofinha", "café da manhã americano"],
+    "ingredientes": [
+      "1 xícara (140 g) de farinha de trigo",
+      "1 colher de sopa de açúcar",
+      "1 colher de chá de fermento em pó químico",
+      "1/2 colher de chá de bicarbonato de sódio",
+      "1 pitada de sal",
+      "1 ovo grande",
+      "3/4 de xícara (180 ml) de leite",
+      "2 colheres de sopa de manteiga derretida (ou óleo)"
+    ],
+    "passos": [
+      "Misture em uma tigela a farinha, o açúcar, o fermento, o bicarbonato e o sal.",
+      "Em outra tigela, bata o ovo com o leite e a manteiga derretida com um garfo.",
+      "Despeje os líquidos nos secos e mexa com espátula em movimentos de baixo para cima, só até não ver farinha. A massa fica com pequenos grumos — isso é sinal de panqueca macia.",
+      "Deixe a massa descansar 5 minutos. O fermento começa a agir e a farinha hidrata.",
+      "Aqueça uma frigideira antiaderente em fogo médio-baixo e passe um papel-toalha com um fio de óleo.",
+      "Despeje 1/4 de xícara de massa por panqueca. Vire quando surgirem bolhas na superfície e as bordas estiverem secas, cerca de 2 minutos.",
+      "Doure o outro lado por 1 minuto e repita com o restante, untando a frigideira só a cada três panquecas."
+    ],
+    "introducao": [
+      "A diferença entre a panqueca americana e a brasileira está no fermento e no descanso. A massa americana leva fermento químico e descansa alguns minutos, o que produz discos altos e aerados em vez de massas finas e maleáveis.",
+      "O erro mais comum é bater até ficar lisa. Farinha trabalhada demais desenvolve glúten e a panqueca sai borrachuda. Por isso a instrução é misturar pouco, mesmo que fiquem grumos — eles desaparecem no descanso."
+    ],
+    "dicas": [
+      "Fogo médio-baixo é obrigatório. Fogo alto doura por fora e deixa crua por dentro.",
+      "A frigideira precisa estar quente antes da primeira panqueca; pingue uma gota de massa: se ela firmar em 3 segundos, está no ponto.",
+      "Para medir 1/4 de xícara sem balança, use uma concha pequena ou uma colher de servir cheia.",
+      "Se a massa ficar muito grossa depois do descanso, acrescente leite 1 colher por vez.",
+      "Não empilhe quentes sem papel-manteiga entre elas: grudam."
+    ],
+    "variacoes": [
+      "Com mirtilo: acrescente 1/2 xícara de mirtilos frescos à massa no final e asse normalmente.",
+      "De banana: amasse 1 banana madura e junte à massa, reduzindo o leite para 1/2 xícara.",
+      "Salgada: retire o açúcar, acrescente 1/2 colher de chá de sal e sirva com ovo mexido e bacon."
+    ],
+    "conservacao": "Guarde em pote fechado na geladeira por 2 dias ou congele com papel-manteiga entre cada disco por até 1 mês. Reaqueça na frigideira seca por 1 minuto de cada lado ou na torradeira.",
+    "faq": [
+      {
+        "pergunta": "Por que a minha panqueca não ficou alta?",
+        "resposta": "Fermento vencido, massa batida demais ou falta de descanso são as causas mais comuns. Confira a validade do fermento e mexa com espátula, não com batedor."
+      },
+      {
+        "pergunta": "Posso fazer sem bicarbonato?",
+        "resposta": "Pode. Use 1 colher de chá cheia de fermento em pó e acrescente 1 colher de chá de suco de limão ao leite, deixando descansar 5 minutos antes de misturar."
+      },
+      {
+        "pergunta": "Dá para usar farinha integral?",
+        "resposta": "Sim, mas substitua no máximo metade da farinha branca. A integral absorve mais líquido: acrescente 2 colheres de sopa de leite extra."
+      }
+    ],
+    "publicado": "2026-10-07",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 4,
+    "slug": "bolo-de-fuba-cremoso",
+    "titulo": "Bolo de fubá cremoso de liquidificador",
+    "categoria": "Sobremesas",
+    "imagem": "images/bolo-de-fuba.jpg",
+    "descricao": "Bolo de fubá com camada firme por cima e cremosa por dentro, feito no liquidificador. Rende 8 porções e leva 50 minutos de forno.",
+    "chamada": "O clássico bolo de fubá de tarde na casa da avó: casquinha dourada, miolo úmido e aquele sabor de milho que combina com café.",
+    "tempoTexto": "50 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 40,
+    "minutosEspera": 20,
+    "porcoes": "8 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["bolo de fubá", "bolo de fubá cremoso", "bolo de liquidificador", "receita de bolo simples"],
+    "ingredientes": [
+      "3 ovos grandes",
+      "1 xícara (140 g) de fubá mimoso",
+      "1/2 xícara (70 g) de farinha de trigo",
+      "1 e 1/2 xícara (300 g) de açúcar",
+      "2 xícaras (480 ml) de leite",
+      "3 colheres de sopa de manteiga derretida",
+      "1 colher de sopa de fermento em pó",
+      "1 pitada de sal"
+    ],
+    "passos": [
+      "Pré-aqueça o forno a 180 °C e unte uma forma retangular de 24 x 14 cm com manteiga e fubá.",
+      "Bata no liquidificador os ovos, o açúcar, o leite, a manteiga e o sal por 1 minuto.",
+      "Acrescente o fubá e a farinha e bata por mais 1 minuto, até a massa ficar homogênea e líquida.",
+      "Desligue o liquidificador, adicione o fermento e pulse duas vezes só para misturar.",
+      "Despeje na forma e asse por 35 a 40 minutos. O bolo está pronto quando a superfície estiver firme e um palito sair com migalhas úmidas, não com massa líquida.",
+      "Espere 20 minutos antes de cortar. Quente, o miolo cremoso desmancha na faca."
+    ],
+    "introducao": [
+      "O bolo de fubá cremoso é uma receita de textura, não de sabor: o objetivo é ter a superfície firme e o centro levemente úmido. Isso acontece porque o fubá decanta no fundo da forma enquanto a farinha de trigo sobe, formando duas camadas naturais.",
+      "A proporção de leite é o que define esse efeito. Menos leite dá bolo de fubá tradicional, seco e fofinho; mais leite dá pudim. As duas xícaras desta receita são o meio do caminho, e funcionam melhor em forma retangular, que distribui o calor de maneira uniforme."
+    ],
+    "dicas": [
+      "Fubá mimoso hidrata mais rápido que o fubá comum e deixa o bolo menos arenoso.",
+      "Nunca bata o fermento no liquidificador: ele perde força com a rotação alta e o bolo não cresce.",
+      "Se quiser mais camada cremosa, aumente o leite em 1/2 xícara e asse 5 minutos a mais.",
+      "Forma de vidro esquenta devagar: aumente o tempo em 10 minutos e reduza para 170 °C.",
+      "O bolo continua firmando depois de sair do forno, então não asse até o palito sair totalmente seco."
+    ],
+    "variacoes": [
+      "Com queijo: acrescente 100 g de queijo meia-cura ralado à massa — o contraste doce e salgado é o clássico de Minas.",
+      "Com erva-doce: junte 1 colher de chá de erva-doce em pó ou sementes à massa.",
+      "Sem lactose: troque o leite por bebida vegetal e a manteiga por óleo; o resultado fica um pouco mais denso."
+    ],
+    "conservacao": "Em pote fechado, dura 3 dias fora da geladeira e 5 dias na geladeira. Fatias congelam bem por até 2 meses; descongele na geladeira e aqueça 20 segundos no micro-ondas para voltar a ficar cremoso.",
+    "faq": [
+      {
+        "pergunta": "Por que meu bolo de fubá ficou seco?",
+        "resposta": "Faltou leite ou passou do ponto no forno. Meça o leite com xícara de 240 ml e retire o bolo assim que o palito sair com migalhas úmidas."
+      },
+      {
+        "pergunta": "Posso substituir o açúcar por mascavo?",
+        "resposta": "Sim, na mesma quantidade. O sabor fica mais caramelizado e a cor, mais escura."
+      },
+      {
+        "pergunta": "Dá para fazer em forma de furo?",
+        "resposta": "Dá, mas o centro assa mais rápido e a camada cremosa fica menor. Use forma de 20 cm de diâmetro e reduza o tempo para 30 minutos."
+      }
+    ],
+    "publicado": "2026-10-08",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 5,
+    "slug": "frango-grelhado-com-limao",
+    "titulo": "Frango grelhado com limão e ervas",
+    "categoria": "Almoço",
+    "imagem": "images/frango-grelhado.jpg",
+    "descricao": "Filé de frango grelhado suculento, com marinada de limão, alho e orégano. Fica pronto em 30 minutos e não resseca.",
+    "chamada": "Peito de frango dourado por fora e úmido por dentro, com marinada de limão que resolve o problema do frango seco.",
+    "tempoTexto": "30 min",
+    "minutosPreparo": 15,
+    "minutosFogo": 12,
+    "minutosEspera": 5,
+    "porcoes": "4 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["frango grelhado", "frango com limão", "frango suculento", "receita de frango fácil"],
+    "ingredientes": [
+      "4 filés de peito de frango (cerca de 600 g)",
+      "Suco de 1 limão siciliano (ou 2 limões taiti)",
+      "2 dentes de alho amassados",
+      "2 colheres de sopa de azeite",
+      "1 colher de chá de orégano seco",
+      "1/2 colher de chá de páprica defumada (opcional)",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "passos": [
+      "Seque os filés com papel-toalha. Frango molhado cozinha no vapor em vez de dourar.",
+      "Corte cada filé ao meio na horizontal, formando dois bifes finos. Isso reduz o tempo de fogo e evita que fique seco por fora e cru por dentro.",
+      "Misture o suco de limão, o alho, o azeite, o orégano, a páprica, o sal e a pimenta em uma tigela.",
+      "Coloque o frango na marinada e deixe de 15 a 30 minutos. Se passar de 1 hora, o limão cozinha a proteína e a textura fica esfarelada.",
+      "Aqueça uma frigideira grossa em fogo médio-alto até ficar bem quente. Coloque os filés sem sobrepor e não mexa por 4 a 5 minutos.",
+      "Vire uma única vez e deixe mais 3 a 4 minutos. O centro deve estar branco, sem partes rosadas.",
+      "Retire do fogo, cubra com papel-alumínio e espere 5 minutos antes de cortar, para o suco voltar para a carne."
+    ],
+    "introducao": [
+      "Frango grelhado seco quase sempre é problema de espessura e de tempo, não de tempero. Peito inteiro tem cerca de 3 cm de espessura: a superfície passa do ponto antes de o centro cozinhar. Aberto ao meio, o filé assa por igual em 8 minutos.",
+      "A marinada com limão tem duas funções: temperar e amaciar levemente a superfície da carne. Ela não precisa de 12 horas. Entre 15 e 30 minutos é suficiente para o sabor entrar sem alterar a textura."
+    ],
+    "dicas": [
+      "A frigideira precisa estar quente antes do frango. Teste com uma gota de água: se ela dançar e evaporar rápido, está no ponto.",
+      "Não fure o filé com garfo para virar: use pinça ou espátula. O suco escapa pelo furo.",
+      "Salgue 10 minutos antes de grelhar, não na hora de servir — o sal precisa de tempo para penetrar.",
+      "Se o frango tiver mais de 2 cm de espessura mesmo aberto, bata levemente com um batedor de carne entre dois plásticos.",
+      "Deixe a frigideira esvaziar entre uma leva e outra: com muitos filés juntos, a temperatura cai e o frango cozinha no próprio vapor."
+    ],
+    "variacoes": [
+      "Ao forno: asse a 200 °C por 18 a 20 minutos em assadeira forrada, virando na metade.",
+      "Com crosta de ervas: misture 2 colheres de farinha de rosca com salsinha e pressione sobre os filés antes de grelhar.",
+      "Apimentado: acrescente 1 colher de chá de pimenta calabresa e 1 colher de sopa de mel à marinada."
+    ],
+    "conservacao": "Na geladeira, dura 3 dias em pote fechado. Reaqueça na frigideira por 1 minuto de cada lado com uma colher de água para não ressecar. Fatiado, é ótimo em salada fria, sanduíche e wrap.",
+    "faq": [
+      {
+        "pergunta": "Como saber se o frango está no ponto?",
+        "resposta": "O centro deve estar branco e opaco, sem partes rosadas, e o suco que sai ao espetar precisa ser transparente. Se tiver termômetro, a temperatura interna é 74 °C."
+      },
+      {
+        "pergunta": "Posso marinar de um dia para o outro?",
+        "resposta": "Não é recomendado com limão. A acidez altera a textura da carne. Para deixar de véspera, use só alho, ervas e sal, e adicione o limão 30 minutos antes de grelhar."
+      },
+      {
+        "pergunta": "Dá para fazer na airfryer?",
+        "resposta": "Sim. Preaqueça a 200 °C por 5 minutos e asse os filés por 12 a 14 minutos, virando na metade."
+      }
+    ],
+    "publicado": "2026-10-09",
+    "atualizado": "2026-11-03"
+  }
+]

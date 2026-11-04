@@ -1,0 +1,100 @@
+/* SABOR DE CASA — linho claro, tinta escura, verde-oliva e mostarda tostada. Serifada editorial + sans utilitária. */
+:root{--fundo:#FBF7EF;--fundo-alt:#F1ECE0;--tinta:#2A2620;--suave:#5C5648;--oliva:#4B5E3A;--oliva-esc:#384728;--mostarda:#C98A2B;--tijolo:#A6431F;--linha:#DDD4C0;--branco:#FFFDF9;--f-titulo:"Fraunces",Georgia,serif;--f-corpo:"Work Sans","Segoe UI",sans-serif;--raio:6px;--sombra:0 8px 24px rgba(42,38,32,.08);--max:1140px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;font-family:var(--f-corpo);color:var(--tinta);background:var(--fundo);line-height:1.6}
+img{max-width:100%;display:block}a{color:inherit;text-decoration:none}
+.container{max-width:var(--max);margin:0 auto;padding:0 24px}
+.sr-only{position:absolute;left:-9999px}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--mostarda);outline-offset:2px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+.cabecalho{background:var(--branco);border-bottom:1px solid var(--linha);position:sticky;top:0;z-index:20}
+.barra-nav{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;gap:16px}
+.logo{font-family:var(--f-titulo);font-size:1.6rem;font-weight:600;color:var(--oliva-esc)}.logo span{color:var(--tijolo)}
+.nav-principal ul{list-style:none;display:flex;gap:28px;margin:0;padding:0}
+.nav-principal a{font-size:.95rem;font-weight:500;color:var(--suave);border-bottom:2px solid transparent;padding-bottom:4px;transition:color .15s,border-color .15s}
+.nav-principal a:hover,.nav-principal a.ativo{color:var(--oliva-esc);border-color:var(--mostarda)}
+.menu-toggle{display:none;background:none;border:1px solid var(--linha);border-radius:var(--raio);padding:8px 12px;font-size:1.2rem;cursor:pointer}
+.hero{background:var(--fundo-alt);border-bottom:1px solid var(--linha);padding:64px 0 56px}
+.hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
+.hero-eyebrow{font-size:.8rem;text-transform:uppercase;letter-spacing:.14em;color:var(--tijolo);font-weight:600;margin:0 0 12px}
+.hero h1{font-family:var(--f-titulo);font-size:clamp(2.2rem,4vw,3.4rem);line-height:1.08;margin:0 0 20px}
+.hero p{font-size:1.08rem;color:var(--suave);max-width:46ch;margin:0 0 28px}
+.busca-form{display:flex;gap:10px;max-width:420px}
+.busca-form input{flex:1;padding:12px 14px;border:1px solid var(--linha);border-radius:var(--raio);font:inherit;font-size:.95rem;background:var(--branco)}
+.botao{display:inline-block;background:var(--oliva);color:var(--branco);border:0;padding:12px 20px;border-radius:var(--raio);font-weight:600;font-size:.95rem;cursor:pointer;transition:background .15s}.botao:hover{background:var(--oliva-esc)}
+.hero-figura{margin:0;border-radius:var(--raio);overflow:hidden;box-shadow:var(--sombra);aspect-ratio:4/3;background:var(--linha)}
+.hero-figura img{width:100%;height:100%;object-fit:cover}
+.filtros{padding:32px 24px 8px}
+.filtros-lista{list-style:none;display:flex;flex-wrap:wrap;gap:10px;margin:0;padding:0}
+.filtro-botao{background:var(--branco);border:1px solid var(--linha);border-radius:999px;padding:8px 16px;font:inherit;font-size:.88rem;font-weight:500;color:var(--suave);cursor:pointer;transition:all .15s}
+.filtro-botao:hover{border-color:var(--oliva)}.filtro-botao[aria-pressed="true"]{background:var(--oliva);border-color:var(--oliva);color:var(--branco)}
+.secao-receitas{padding:24px 24px 64px}
+.secao-titulo{font-family:var(--f-titulo);font-size:1.6rem;margin:8px 0 24px}
+.grade-receitas{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:24px}
+.cartao-receita{background:var(--branco);border:1px solid var(--linha);border-radius:var(--raio);overflow:hidden;transition:transform .15s,box-shadow .15s}
+.cartao-receita:hover{transform:translateY(-3px);box-shadow:var(--sombra)}
+.cartao-figura{aspect-ratio:4/3;overflow:hidden;background:var(--fundo-alt)}.cartao-figura img{width:100%;height:100%;object-fit:cover}
+.cartao-corpo{padding:18px 18px 20px}
+.cartao-categoria{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;font-weight:600;color:var(--mostarda);margin:0 0 6px}
+.cartao-titulo{font-family:var(--f-titulo);font-size:1.15rem;margin:0 0 8px}
+.cartao-meta{display:flex;gap:14px;font-size:.82rem;color:var(--suave);margin:0}
+.sem-resultados{text-align:center;color:var(--suave);padding:48px 0;display:none}
+.trilha{font-size:.85rem;color:var(--suave);padding-top:20px;padding-bottom:0}.trilha a{color:var(--oliva-esc);font-weight:600}
+.receita-cabecalho{padding-top:20px;padding-bottom:32px}
+.receita-categoria{font-size:.78rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--tijolo);margin:0}
+.receita-titulo{font-family:var(--f-titulo);font-size:clamp(1.9rem,3.4vw,2.8rem);margin:10px 0 14px}
+.receita-descricao{color:var(--suave);max-width:60ch;font-size:1.05rem;margin:0}
+.receita-figura{margin:0 0 32px;border-radius:var(--raio);overflow:hidden;box-shadow:var(--sombra);aspect-ratio:16/9;background:var(--linha)}
+.receita-figura img{width:100%;height:100%;object-fit:cover}
+.receita-info{display:flex;gap:32px;flex-wrap:wrap;padding:20px 0;border-top:1px solid var(--linha);border-bottom:1px solid var(--linha);margin:0 0 36px}
+.receita-info dt{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--suave);margin-bottom:4px}
+.receita-info dd{margin:0;font-weight:700;font-family:var(--f-titulo);font-size:1.15rem;color:var(--oliva-esc)}
+.receita-conteudo{display:grid;grid-template-columns:.9fr 1.4fr;gap:48px;padding-bottom:64px}
+.receita-conteudo h2{font-family:var(--f-titulo);font-size:1.35rem;margin:0 0 16px;color:var(--oliva-esc)}
+.lista-ingredientes{list-style:none;margin:0;padding:0;border-top:1px solid var(--linha)}
+.lista-ingredientes li{padding:12px 0;border-bottom:1px solid var(--linha);font-size:.98rem}
+.lista-passos{margin:0;padding:0;list-style:none;counter-reset:passo}
+.lista-passos li{counter-increment:passo;position:relative;padding:4px 0 28px 48px}
+.lista-passos li::before{content:counter(passo);position:absolute;left:0;top:0;width:34px;height:34px;border-radius:50%;background:var(--oliva);color:var(--branco);font-family:var(--f-titulo);font-weight:700;display:flex;align-items:center;justify-content:center}
+.pagina-institucional{padding-top:48px;padding-bottom:64px;max-width:calc(74ch + 48px)}
+.pagina-institucional h1{font-family:var(--f-titulo);font-size:2.1rem;margin-bottom:8px}
+.pagina-institucional h2{font-family:var(--f-titulo);font-size:1.3rem;margin-top:36px}
+.pagina-institucional p,.pagina-institucional li{color:var(--suave)}
+.atualizado{font-size:.85rem;margin-bottom:32px}
+.rodape{background:var(--oliva-esc);color:#EDE9DC;padding:48px 0 24px;margin-top:32px}
+.rodape-grade{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:32px;padding-bottom:32px;border-bottom:1px solid rgba(237,233,220,.15)}
+.rodape h3{font-family:var(--f-titulo);font-size:1.1rem;margin:0 0 14px;color:#FBF7EF}
+.rodape p{color:#C9C4B2;font-size:.92rem;margin:0}.rodape ul{list-style:none;margin:0;padding:0}.rodape li{margin-bottom:10px}
+.rodape a{color:#D8D4C4;font-size:.92rem;transition:color .15s}.rodape a:hover{color:var(--mostarda)}
+.rodape-baixo{padding-top:20px;font-size:.82rem;color:#9C9884;text-align:center}
+.bloco-anuncio{max-width:var(--max);margin:32px auto;padding:0 24px;text-align:center}
+.bloco-anuncio span{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--suave);margin-bottom:8px}
+.espaco-anuncio{background:var(--fundo-alt);border:1px dashed var(--linha);border-radius:var(--raio);min-height:100px;display:flex;align-items:center;justify-content:center;color:var(--suave);font-size:.85rem}
+@media(max-width:860px){.hero-grid{grid-template-columns:1fr}.hero-figura{order:-1}.receita-conteudo{grid-template-columns:1fr}.rodape-grade{grid-template-columns:1fr;gap:24px}}
+@media(max-width:640px){.nav-principal{display:none}.menu-toggle{display:inline-block}.barra-nav{flex-wrap:wrap}.nav-principal.aberto{display:block;width:100%;order:3}.nav-principal.aberto ul{flex-direction:column;gap:4px;padding:12px 0 4px}}
+
+/* --- texto editorial, dicas, FAQ e categorias --- */
+.bloco-texto{max-width:74ch;padding-bottom:56px}
+.bloco-texto h2{font-family:var(--f-titulo);font-size:1.4rem;color:var(--oliva-esc);margin:0 0 12px}
+.bloco-texto p{color:var(--suave)}
+.receita-texto{max-width:74ch;padding-bottom:24px}
+.receita-texto p{color:var(--suave);font-size:1.02rem}
+.receita-texto h2{font-family:var(--f-titulo);font-size:1.4rem;color:var(--oliva-esc);margin:36px 0 12px}
+.lista-dicas{margin:0;padding:0;list-style:none}
+.lista-dicas li{position:relative;padding:8px 0 8px 22px;color:var(--suave);border-bottom:1px solid var(--linha)}
+.lista-dicas li::before{content:"";position:absolute;left:0;top:18px;width:8px;height:8px;border-radius:50%;background:var(--mostarda)}
+.faq details{border-bottom:1px solid var(--linha);padding:14px 0}
+.faq summary{font-weight:600;cursor:pointer;color:var(--tinta);list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";float:right;color:var(--mostarda);font-weight:700}
+.faq details[open] summary::after{content:"\2013"}
+.faq p{color:var(--suave);margin:10px 0 0}
+.nota-receita{margin-top:36px;padding:16px;background:var(--fundo-alt);border-left:3px solid var(--mostarda);border-radius:var(--raio);font-size:.92rem;color:var(--suave)}
+.nota-receita a{color:var(--oliva-esc);font-weight:600;text-decoration:underline}
+.texto-categoria{color:var(--suave);max-width:74ch;margin:0 0 28px;font-size:1.02rem}
+.secao-relacionadas{padding-bottom:64px}
+.pagina-institucional ol{color:var(--suave);padding-left:22px}
+.pagina-institucional ol li{margin-bottom:10px}
+.pagina-institucional a{color:var(--oliva-esc);font-weight:600;text-decoration:underline}
+.filtros-lista a.filtro-botao{display:inline-block}
+.cartao-receita[hidden]{display:none}

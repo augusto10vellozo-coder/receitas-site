@@ -1,0 +1,335 @@
+[
+  {
+    "ordem": 16,
+    "slug": "risoto-de-tomate",
+    "titulo": "Risoto de tomate cremoso sem vinho",
+    "categoria": "Jantar",
+    "imagem": "images/risoto-tomate.jpg",
+    "descricao": "Risoto de tomate com arroz arbóreo, caldo quente e parmesão. Receita sem vinho, pronta em 40 minutos, para 3 porções.",
+    "chamada": "Risoto cremoso com tomate fresco e parmesão, sem vinho e sem técnica de restaurante.",
+    "tempoTexto": "40 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 25,
+    "minutosEspera": 2,
+    "porcoes": "3 porções",
+    "dificuldade": "Médio",
+    "palavrasChave": ["risoto de tomate", "risoto sem vinho", "receita de risoto", "jantar especial"],
+    "ingredientes": [
+      "1 xícara (200 g) de arroz arbóreo",
+      "3 tomates maduros grandes picados sem semente (ou 1 lata de tomate pelado)",
+      "1/2 cebola picada fina",
+      "1 dente de alho picado",
+      "1 litro de caldo de legumes quente",
+      "3 colheres de sopa de azeite",
+      "1/2 xícara (50 g) de parmesão ralado",
+      "1 colher de sopa de manteiga gelada",
+      "Sal e pimenta-do-reino a gosto"
+    ],
+    "passos": [
+      "Mantenha o caldo aquecido em outra panela. Caldo frio interrompe o cozimento e o risoto fica empapado.",
+      "Refogue a cebola no azeite em fogo médio por 4 minutos, até ficar transparente. Junte o alho e mexa 30 segundos.",
+      "Acrescente o arroz e mexa por 2 minutos, até os grãos ficarem brilhantes e translúcidos nas bordas. Esse passo sela o amido e é o que dá cremosidade.",
+      "Junte o tomate picado e cozinhe por 3 minutos, mexendo até formar um molho rústico.",
+      "Adicione o caldo quente, uma concha por vez, mexendo sempre. Só acrescente mais quando o líquido anterior for absorvido.",
+      "Após 16 a 18 minutos, prove o arroz: deve estar al dente, com o centro ainda firme.",
+      "Desligue o fogo, acrescente a manteiga gelada e o parmesão e mexa vigorosamente por 1 minuto. Espere 2 minutos e sirva — o risoto precisa descansar para ficar cremoso."
+    ],
+    "introducao": [
+      "Risoto não é arroz empapado: é arroz cozido aos poucos, com o amido sendo liberado pela fricção dos grãos. Por isso a panela precisa ser larga e a mexida precisa ser constante, mas não desesperada.",
+      "Esta versão dispensa o vinho branco e usa o próprio tomate como acidez. O segredo da cremosidade final é a manteiga gelada e o parmesão fora do fogo — a chamada mantecatura, que dá brilho e liga ao prato."
+    ],
+    "dicas": [
+      "Use arroz arbóreo ou carnaroli. Arroz comum não solta amido suficiente e vira papa.",
+      "O caldo precisa estar quente do início ao fim. Deixe ao lado do fogo, em fogo baixo.",
+      "Panela larga e rasa distribui o calor melhor que panela funda.",
+      "Não lave o arroz: a camada de amido na superfície é o que dá cremosidade.",
+      "Se acabar o caldo antes do arroz ficar pronto, use água quente — nunca caldo frio."
+    ],
+    "variacoes": [
+      "Com manjericão: acrescente 10 folhas de manjericão fresco no fim, junto com o parmesão.",
+      "Com burrata: sirva com meia burrata no centro e um fio de azeite.",
+      "Com camarão: doure 200 g de camarão e misture nos últimos 2 minutos de cozimento."
+    ],
+    "conservacao": "Geladeira por 2 dias. Reaqueça em fogo baixo com 2 colheres de caldo, mexendo até voltar a ficar cremoso. Não congele: o arroz perde a textura.",
+    "faq": [
+      {
+        "pergunta": "Posso fazer sem mexer o tempo todo?",
+        "resposta": "Pode, mas o resultado muda. Sem mexer, o amido não se solta e o risoto fica menos cremoso. Se precisar, mexa a cada 30 segundos."
+      },
+      {
+        "pergunta": "Dá para usar tomate de lata?",
+        "resposta": "Sim. Use 1 lata de tomate pelado escorrido, amassado com garfo. O sabor fica mais intenso e o prato, mais rápido."
+      },
+      {
+        "pergunta": "Quanto caldo vai ao todo?",
+        "resposta": "Cerca de 800 ml a 1 litro para 1 xícara de arroz. Tenha 1,2 litro pronto para não faltar no meio do processo."
+      }
+    ],
+    "publicado": "2026-10-20",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 17,
+    "slug": "salmao-ao-forno-com-ervas",
+    "titulo": "Salmão ao forno com ervas e limão",
+    "categoria": "Jantar",
+    "imagem": "images/salmao-forno.jpg",
+    "descricao": "Salmão assado com limão, alho e ervas frescas, pronto em 30 minutos. Dicas para não ressecar o peixe e rendimento para 2 pessoas.",
+    "chamada": "Salmão úmido por dentro, dourado por fora, com crosta de ervas e limão — pronto em 18 minutos de forno.",
+    "tempoTexto": "30 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 18,
+    "minutosEspera": 3,
+    "porcoes": "2 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["salmão ao forno", "salmão com ervas", "receita de peixe", "jantar leve"],
+    "ingredientes": [
+      "2 postas de salmão com pele (cerca de 180 g cada)",
+      "2 colheres de sopa de azeite",
+      "Suco de 1/2 limão siciliano",
+      "1 dente de alho picado fino",
+      "1 colher de sopa de salsinha picada",
+      "1 colher de chá de tomilho fresco (ou 1/2 de seco)",
+      "Sal e pimenta-do-reino a gosto",
+      "Rodelas de limão para assar junto"
+    ],
+    "passos": [
+      "Retire o salmão da geladeira 15 minutos antes de assar. Peixe gelado assa por fora e fica cru no centro.",
+      "Seque as postas com papel-toalha. Pele e superfície secas garantem dourado, não cozimento no vapor.",
+      "Misture o azeite, o alho, a salsinha, o tomilho, o sal e a pimenta.",
+      "Pincele o tempero nas postas e coloque em uma assadeira forrada com papel-manteiga, com a pele para baixo.",
+      "Espalhe rodelas de limão por cima e regue com o suco.",
+      "Asse em forno pré-aquecido a 200 °C por 15 a 18 minutos. O salmão está pronto quando a carne se solta em lascas com um garfo, ainda rosada no centro.",
+      "Espere 3 minutos antes de servir: o peixe termina de cozinhar no calor residual."
+    ],
+    "introducao": [
+      "Salmão ressecado é salmão que passou do ponto. O peixe continua cozinhando depois de sair do forno, então retirar 2 minutos antes é o que mantém o centro úmido. Se você esperar a carne ficar opaca até o centro no forno, já passou.",
+      "A pele funciona como proteção natural: assada para baixo, ela isola a carne do calor direto da assadeira e evita que a parte de baixo seque. Se não gostar de pele, retire depois de assar."
+    ],
+    "dicas": [
+      "Postas com mesma espessura assam por igual; se uma for mais grossa, retire a outra antes.",
+      "Não use limão em excesso na marinada: a acidez cozinha o peixe e muda a textura.",
+      "Papel-manteiga evita que o salmão grude e facilita a limpeza.",
+      "Para dourar a superfície, ligue o grill nos últimos 2 minutos.",
+      "Se usar salmão congelado, descongele na geladeira por 12 horas e seque muito bem."
+    ],
+    "variacoes": [
+      "Com crosta de castanha: misture 3 colheres de castanha-de-caju picada com a salsinha e cubra o peixe antes de assar.",
+      "Com legumes: asse batata e abobrinha em rodelas na mesma assadeira, embaixo do peixe.",
+      "Com molho de iogurte: misture 1/2 copo de iogurte com limão, endro e sal para servir ao lado."
+    ],
+    "conservacao": "Geladeira por 2 dias, em pote fechado. Reaqueça no forno a 160 °C por 8 minutos ou coma frio em salada. Não congele depois de assado.",
+    "faq": [
+      {
+        "pergunta": "Como saber se o salmão está no ponto?",
+        "resposta": "A carne deve se separar em lascas com o garfo e o centro ainda estar levemente rosado. Se estiver opaco até o centro, passou do ponto."
+      },
+      {
+        "pergunta": "Posso fazer na airfryer?",
+        "resposta": "Sim. Asse a 180 °C por 10 a 12 minutos, com a pele para baixo. O tempo varia com a espessura da posta."
+      },
+      {
+        "pergunta": "Dá para usar outro peixe?",
+        "resposta": "Sim: tilápia e bacalhau fresco funcionam, mas a tilápia resseca mais rápido. Reduza o tempo para 12 minutos."
+      }
+    ],
+    "publicado": "2026-10-21",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 18,
+    "slug": "mousse-de-maracuja",
+    "titulo": "Mousse de maracujá de 3 ingredientes",
+    "categoria": "Sobremesas",
+    "imagem": "images/mousse-maracuja.jpg",
+    "descricao": "Mousse de maracujá cremosa com leite condensado, creme de leite e suco concentrado. Pronta em 15 minutos mais geladeira, rende 6 porções.",
+    "chamada": "Sobremesa de liquidificador que acerta sempre: azedinha, cremosa e pronta em minutos.",
+    "tempoTexto": "15 min + 3 h de geladeira",
+    "minutosPreparo": 15,
+    "minutosFogo": 0,
+    "minutosEspera": 180,
+    "porcoes": "6 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["mousse de maracujá", "mousse fácil", "sobremesa de liquidificador", "receita com maracujá"],
+    "ingredientes": [
+      "1 lata (395 g) de leite condensado",
+      "1 caixa (200 g) de creme de leite gelado",
+      "1/2 xícara (120 ml) de suco concentrado de maracujá",
+      "Polpa de 1 maracujá para decorar",
+      "1 colher de sopa de açúcar (para a calda, opcional)"
+    ],
+    "passos": [
+      "Bata no liquidificador o leite condensado, o creme de leite e o suco de maracujá por 2 minutos, até ficar homogêneo e levemente aerado.",
+      "Prove: se estiver muito ácido, acrescente 1 colher de sopa de leite condensado; se estiver doce demais, mais 1 colher de suco.",
+      "Despeje em taças individuais ou em uma travessa.",
+      "Leve à geladeira por no mínimo 3 horas. O tempo é o que firma a mousse — não tente acelerar no freezer, ela cristaliza.",
+      "Para a calda, misture a polpa do maracujá com o açúcar e leve ao fogo baixo por 2 minutos, até engrossar levemente. Espere esfriar.",
+      "Sirva com a calda por cima e sementes de maracujá fresco."
+    ],
+    "introducao": [
+      "Mousse de maracujá firma por reação do creme de leite gelado com a acidez da fruta. Por isso ele precisa estar bem frio e a mousse precisa descansar na geladeira, não no freezer: o congelamento rápido separa a água e a textura fica granulada.",
+      "Suco concentrado de maracujá é mais ácido e mais estável que a fruta fresca. Se usar maracujá in natura, coe e ajuste o açúcar, porque a acidez varia muito de fruta para fruta."
+    ],
+    "dicas": [
+      "Creme de leite gelado, direto da geladeira, bate mais firme.",
+      "Não bata demais: em excesso, o creme de leite vira manteiga e a mousse talha.",
+      "Taças de vidro mostram a camada de calda e rendem uma apresentação melhor.",
+      "Se quiser mousse mais firme para desenformar, acrescente 1 envelope de gelatina sem sabor hidratada.",
+      "A calda pode ser feita na véspera e guardada na geladeira."
+    ],
+    "variacoes": [
+      "Com chocolate: faça camadas de mousse de maracujá e ganache de chocolate meio amargo.",
+      "Com iogurte: troque metade do creme de leite por iogurte natural integral, para uma versão mais leve.",
+      "Em picolé: coloque a mistura em forminhas de picolé e congele por 4 horas."
+    ],
+    "conservacao": "Geladeira, coberta, por 3 dias. Não congele: a textura desanda ao descongelar.Sirva sempre gelada.",
+    "faq": [
+      {
+        "pergunta": "Por que minha mousse ficou líquida?",
+        "resposta": "Faltou tempo de geladeira ou o creme de leite não estava gelado. Deixe pelo menos 3 horas e bata o creme direto da geladeira."
+      },
+      {
+        "pergunta": "Posso usar maracujá fresco?",
+        "resposta": "Pode. Bata a polpa no liquidificador por 10 segundos, coe e use 1/2 xícara do suco. Ajuste o açúcar porque a acidez varia."
+      },
+      {
+        "pergunta": "Dá para fazer sem leite condensado?",
+        "resposta": "Dá, mas a textura muda. Use 1 lata de leite condensado de coco ou 1 xícara de açúcar dissolvido em 1/2 xícara de leite."
+      }
+    ],
+    "publicado": "2026-10-22",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 19,
+    "slug": "vitamina-de-banana",
+    "titulo": "Vitamina de banana cremosa",
+    "categoria": "Bebidas",
+    "imagem": "images/vitamina-banana.jpg",
+    "descricao": "Vitamina de banana cremosa com leite gelado, aveia opcional e mel. Pronta em 5 minutos, rende 2 copos e serve de café da manhã.",
+    "chamada": "Café da manhã em 5 minutos: banana congelada, leite gelado e a cremosidade que a vitamina de lanchonete tem.",
+    "tempoTexto": "5 min",
+    "minutosPreparo": 5,
+    "minutosFogo": 0,
+    "minutosEspera": 0,
+    "porcoes": "2 copos",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["vitamina de banana", "vitamina cremosa", "café da manhã rápido", "receita com banana"],
+    "ingredientes": [
+      "2 bananas maduras congeladas em rodelas",
+      "300 ml de leite integral gelado",
+      "2 colheres de sopa de aveia em flocos (opcional)",
+      "1 colher de sopa de mel ou açúcar",
+      "1 pitada de canela em pó",
+      "Gelo a gosto"
+    ],
+    "passos": [
+      "Corte as bananas em rodelas e congele por pelo menos 2 horas, em saco fechado. Banana congelada é o que dá textura de milk-shake.",
+      "Coloque o leite no liquidificador primeiro, depois a banana, a aveia e o mel. Líquido embaixo facilita a batida e protege a lâmina.",
+      "Bata por 40 a 60 segundos, até ficar homogêneo e cremoso.",
+      "Prove e ajuste o adoçante. Sirva imediatamente com canela por cima."
+    ],
+    "introducao": [
+      "A diferença entre vitamina cremosa e leite com banana é a temperatura da fruta. Banana congelada quebra em partículas finas e dá corpo à bebida sem precisar de sorvete nem de leite condensado.",
+      "A aveia entra como espessante natural e ajuda a segurar a saciedade da manhã. Se você não gosta da textura, bata a aveia junto com o leite primeiro e depois acrescente a banana."
+    ],
+    "dicas": [
+      "Banana nanica ou prata bem madura adoça mais e dispensa açúcar.",
+      "Se a banana não estiver congelada, use 3 pedras de gelo e bata 30 segundos a mais.",
+      "Leite vegetal funciona, mas a bebida fica mais rala: acrescente 1 colher de aveia extra.",
+      "Bata pouco tempo depois de adicionar a aveia para não aquecer a bebida.",
+      "Para levar, use garrafa térmica e consuma em até 2 horas."
+    ],
+    "variacoes": [
+      "Com cacau: acrescente 1 colher de sopa de cacau em pó e 1 colher de pasta de amendoim.",
+      "Com morango: use 1 banana e 5 morangos congelados.",
+      "Proteica: acrescente 1 scoop de whey ou 2 colheres de iogurte grego."
+    ],
+    "conservacao": "Consuma na hora. Na geladeira, dura até 12 horas, mas separa e perde cremosidade — basta bater novamente com 2 pedras de gelo.",
+    "faq": [
+      {
+        "pergunta": "Posso usar banana não congelada?",
+        "resposta": "Pode, mas a vitamina fica mais líquida. Use gelo e bata um pouco mais, ou acrescente 1 colher de aveia."
+      },
+      {
+        "pergunta": "Dá para fazer sem leite?",
+        "resposta": "Sim, com bebida vegetal de aveia ou coco. O sabor muda e a textura fica mais leve."
+      },
+      {
+        "pergunta": "Serve como refeição?",
+        "resposta": "Como café da manhã leve, sim. Para refeição completa, acrescente aveia, pasta de amendoim ou ovo cozido ao lado."
+      }
+    ],
+    "publicado": "2026-10-23",
+    "atualizado": "2026-11-03"
+  },
+  {
+    "ordem": 20,
+    "slug": "pizza-de-panela",
+    "titulo": "Pizza de panela sem forno",
+    "categoria": "Lanches",
+    "imagem": "images/pizza-panela.jpg",
+    "descricao": "Pizza de panela com massa rápida, molho de tomate, mussarela e recheio a gosto. Pronta em 40 minutos na frigideira, sem forno.",
+    "chamada": "Pizza sem forno e sem massa pronta: disco dourado na frigideira, queijo derretido e recheio do que tiver na geladeira.",
+    "tempoTexto": "40 min",
+    "minutosPreparo": 15,
+    "minutosFogo": 25,
+    "minutosEspera": 0,
+    "porcoes": "4 porções (2 discos)",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["pizza de panela", "pizza sem forno", "pizza fácil", "lanche rápido"],
+    "ingredientes": [
+      "2 xícaras (280 g) de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "1 colher de chá de sal",
+      "1 ovo",
+      "1/2 xícara (120 ml) de leite",
+      "2 colheres de sopa de óleo",
+      "1/2 xícara de molho de tomate",
+      "150 g de mussarela ralada",
+      "Orégano e recheio a gosto"
+    ],
+    "passos": [
+      "Misture a farinha, o fermento e o sal em uma tigela.",
+      "Junte o ovo, o leite e o óleo e mexa até formar uma massa macia que desgruda das mãos. Se estiver grudenta, acrescente farinha 1 colher por vez.",
+      "Divida a massa em duas partes e abra cada uma com as mãos, do tamanho da frigideira.",
+      "Aqueça uma frigideira antiaderente em fogo baixo e coloque o disco. Tampe e cozinhe por 5 a 6 minutos, até a base dourar e a superfície firmar.",
+      "Vire o disco, espalhe o molho, a mussarela e o recheio e tampe novamente.",
+      "Cozinhe por mais 5 a 6 minutos, até o queijo derreter completamente. Repita com o segundo disco.",
+      "Finalize com orégano e sirva em fatias."
+    ],
+    "introducao": [
+      "Pizza de panela não é pizza de forno disfarçada: a massa é fina, cozinha no vapor e doura embaixo. O que garante o resultado é fogo baixo e tampa fechada — fogo alto queima a base antes de o queijo derreter.",
+      "O fermento químico dá crescimento rápido, então não é preciso descansar a massa. Em compensação, ela deve ser aberta fina: disco grosso não cozinha no centro."
+    ],
+    "dicas": [
+      "Frigideira antiaderente de fundo grosso é essencial. Panela fina queima a massa.",
+      "Não abra a tampa durante o cozimento: o vapor é o que derrete o queijo.",
+      "Se a massa grudar na mão, unte com óleo, não com farinha.",
+      "Recheios úmidos (tomate, palmito) devem ser escorridos antes.",
+      "Para 4 pessoas, faça os dois discos e mantenha o primeiro aquecido em forno baixo ou sobre um prato tampado."
+    ],
+    "variacoes": [
+      "Marguerita: molho, mussarela, rodelas de tomate e manjericão fresco no fim.",
+      "Calabresa: linguiça calabresa fatiada e cebola em rodelas.",
+      "Portuguesa: presunto, ovo cozido, cebola, azeitona e ervilha."
+    ],
+    "conservacao": "Geladeira por 2 dias. Reaqueça na frigideira tampada por 3 minutos. Massa crua pode ser congelada em discos separados por papel-manteiga.",
+    "faq": [
+      {
+        "pergunta": "Dá para fazer no forno?",
+        "resposta": "Sim. Asse a massa pré-assada a 220 °C por 10 minutos com os recheios, até o queijo derreter."
+      },
+      {
+        "pergunta": "Por que a massa ficou crua no meio?",
+        "resposta": "Disco grosso demais ou fogo alto. Abra mais fino, use fogo baixo e mantenha a tampa fechada."
+      },
+      {
+        "pergunta": "Posso usar massa de pão?",
+        "resposta": "Pode, mas ela precisa de descanso de 1 hora e cresce mais. A massa com fermento químico é mais rápida e rende uma pizza fina."
+      }
+    ],
+    "publicado": "2026-10-24",
+    "atualizado": "2026-11-03"
+  }
+]
