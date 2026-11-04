@@ -1,0 +1,655 @@
+[
+  {
+    "ordem": 21,
+    "slug": "frango-a-parmegiana",
+    "titulo": "Frango à parmegiana de frigideira",
+    "categoria": "Almoço",
+    "imagem": "images/frango-parmegiana.jpg",
+    "descricao": "Frango à parmegiana com filé empanado, molho de tomate caseiro e mussarela gratinada. Rende 4 porções e fica pronto em 45 minutos.",
+    "chamada": "Filé empanado crocante, molho de tomate apurado e queijo derretido — o prato de domingo sem fritura profunda.",
+    "tempoTexto": "45 min",
+    "minutosPreparo": 20,
+    "minutosFogo": 25,
+    "minutosEspera": 0,
+    "porcoes": "4 porções",
+    "dificuldade": "Médio",
+    "palavrasChave": ["frango à parmegiana", "parmegiana de frango", "frango empanado", "receita de frango"],
+    "ingredientes": [
+      "4 filés de peito de frango abertos ao meio (cerca de 600 g)",
+      "2 ovos batidos",
+      "1 xícara (120 g) de farinha de rosca",
+      "1/2 xícara (60 g) de farinha de trigo",
+      "1 colher de chá de páprica",
+      "Sal e pimenta-do-reino a gosto",
+      "3 colheres de sopa de óleo",
+      "Molho: 1 cebola picada, 2 dentes de alho, 1 lata de tomate pelado, 1 colher de sopa de açúcar",
+      "200 g de mussarela fatiada",
+      "3 colheres de sopa de parmesão ralado"
+    ],
+    "passos": [
+      "Tempere os filés com sal, pimenta e páprica e deixe 10 minutos.",
+      "Prepare três pratos: farinha de trigo, ovos batidos e farinha de rosca misturada com o parmesão.",
+      "Passe cada filé na farinha, no ovo e na farinha de rosca, pressionando bem para grudar.",
+      "Aqueça o óleo em fogo médio e doure os filés por 3 minutos de cada lado. Escorra em papel-toalha.",
+      "Para o molho, refogue a cebola e o alho, junte o tomate pelado amassado e o açúcar e cozinhe por 12 minutos em fogo baixo.",
+      "Coloque os filés em um refratário, cubra com o molho e a mussarela e leve ao forno a 200 °C por 12 minutos, até gratinar."
+    ],
+    "introducao": [
+      "A parmegiana tradicional frita o filé em óleo profundo. Nesta versão, uma frigideira com 3 colheres de óleo resolve: o empanado doura por igual porque o filé é fino. Espessura é o ponto crítico — filé grosso fica cru no centro antes de a casca dourar.",
+      "O açúcar no molho não adoça: ele corta a acidez do tomate enlatado e ajuda a reduzir mais rápido. Se usar tomate fresco bem maduro, pode dispensar."
+    ],
+    "dicas": [
+      "Seque o filé antes de empanar, senão a farinha de rosca descola.",
+      "Farinha de rosca caseira de pão amanhecido gruda melhor que a industrializada.",
+      "Não coloque molho em cima do empanado antes de assar: ele amolece. Regue pelas laterais.",
+      "Frite os filés em etapas, sem encostar um no outro.",
+      "Para congelar, congele depois de frito e antes do molho."
+    ],
+    "variacoes": [
+      "Com berinjela: faça camadas de berinjela grelhada entre o frango e o molho.",
+      "Ao forno: empane e asse a 200 °C por 20 minutos, virando na metade, para versão sem fritura.",
+      "Com presunto: coloque uma fatia de presunto sobre o filé antes da mussarela."
+    ],
+    "conservacao": "Geladeira por 3 dias. Reaqueça coberto com alumínio a 180 °C por 15 minutos. Congele antes de gratinar por até 2 meses.",
+    "faq": [
+      {
+        "pergunta": "Por que meu empanado descolou?",
+        "resposta": "Filé úmido ou farinha de rosca aplicada sem pressão. Seque bem a carne e pressione o empanado com as mãos antes de fritar."
+      },
+      {
+        "pergunta": "Posso fazer sem ovo?",
+        "resposta": "Sim, use 3 colheres de sopa de creme de leite ou iogurte como liga. O empanado fica um pouco menos crocante."
+      },
+      {
+        "pergunta": "Dá para usar molho pronto?",
+        "resposta": "Pode, mas escolha molho de tomate simples, sem açúcar adicionado, e apure por 5 minutos com uma cebola refogada."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 22,
+    "slug": "bolo-de-chocolate-fofinho",
+    "titulo": "Bolo de chocolate fofinho de liquidificador",
+    "categoria": "Sobremesas",
+    "imagem": "images/bolo-chocolate.jpg",
+    "descricao": "Bolo de chocolate fofinho e úmido, feito no liquidificador, com cobertura cremosa de chocolate. Rende 12 fatias e leva 40 minutos de forno.",
+    "chamada": "Massa úmida de cacau com cobertura brilhante — o bolo de chocolate que não precisa de batedeira.",
+    "tempoTexto": "55 min",
+    "minutosPreparo": 15,
+    "minutosFogo": 40,
+    "minutosEspera": 20,
+    "porcoes": "12 fatias",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["bolo de chocolate", "bolo de chocolate fofinho", "bolo de liquidificador", "receita de bolo"],
+    "ingredientes": [
+      "3 ovos",
+      "1 e 1/2 xícara (300 g) de açúcar",
+      "1 xícara (240 ml) de leite morno",
+      "1/2 xícara (120 ml) de óleo",
+      "2 xícaras (280 g) de farinha de trigo",
+      "1 xícara (90 g) de chocolate em pó 50%",
+      "1 colher de sopa de fermento em pó",
+      "1 pitada de sal",
+      "Cobertura: 1/2 xícara de creme de leite, 150 g de chocolate meio amargo picado"
+    ],
+    "passos": [
+      "Bata no liquidificador os ovos, o açúcar, o leite morno e o óleo por 2 minutos.",
+      "Acrescente a farinha, o chocolate em pó e o sal e bata até ficar homogêneo.",
+      "Desligue e misture o fermento com espátula.",
+      "Despeje em forma untada de 24 x 30 cm e asse a 180 °C por 35 a 40 minutos.",
+      "Para a cobertura, aqueça o creme de leite até quase ferver e despeje sobre o chocolate picado. Mexa até derreter.",
+      "Espalhe sobre o bolo frio."
+    ],
+    "introducao": [
+      "Bolo de chocolate caseiro costuma ficar seco por dois motivos: chocolate em pó demais (que absorve líquido) e forno alto. A proporção de uma xícara de chocolate para duas de farinha é o limite antes de a massa começar a esfarelar.",
+      "O leite morno hidrata o cacau, que é pobre em gordura, e ajuda a massa a ficar úmida sem precisar de manteiga derretida."
+    ],
+    "dicas": [
+      "Use chocolate em pó 50% cacau, não achocolatado: açúcar em excesso resseca a massa.",
+      "Peneire o chocolate junto com a farinha para não formar grumos.",
+      "O leite morno (não quente) ajuda a dissolver o cacau sem cozinhar os ovos.",
+      "Cobertura brilhante: mexa o chocolate com o creme de leite fora do fogo, sem ferver.",
+      "Não abra o forno nos primeiros 25 minutos."
+    ],
+    "variacoes": [
+      "Com recheio: corte o bolo ao meio e recheie com brigadeiro de colher.",
+      "Com café: dissolva 1 colher de café solúvel no leite morno para intensificar o chocolate.",
+      "Sem lactose: use leite vegetal e cobertura com creme de leite de coco."
+    ],
+    "conservacao": "Pote fechado por 3 dias. Fatias congelam por 2 meses; descongele na geladeira.",
+    "faq": [
+      {
+        "pergunta": "Por que o bolo ficou seco?",
+        "resposta": "Chocolate em pó em excesso ou tempo de forno longo. Pese os ingredientes e retire quando o palito sair com migalhas úmidas."
+      },
+      {
+        "pergunta": "Posso usar cacau 100%?",
+        "resposta": "Pode, mas reduza para 3/4 de xícara e acrescente 1/4 de xícara de açúcar, porque o cacau puro é mais amargo e absorvente."
+      },
+      {
+        "pergunta": "Dá para fazer em forma de furo?",
+        "resposta": "Sim, use forma de 22 cm e reduza o tempo para 30 a 35 minutos."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 23,
+    "slug": "coxinha-de-frango",
+    "titulo": "Coxinha de frango cremosa",
+    "categoria": "Lanches",
+    "imagem": "images/coxinha-frango.jpg",
+    "descricao": "Coxinha de frango com massa cozida, recheio cremoso e empanado crocante. Rende 25 unidades e ensina o ponto da massa.",
+    "chamada": "Massa lisa, recheio úmido e casquinha crocante — o salgado de festa feito em casa.",
+    "tempoTexto": "1h20",
+    "minutosPreparo": 50,
+    "minutosFogo": 30,
+    "minutosEspera": 60,
+    "porcoes": "25 unidades",
+    "dificuldade": "Médio",
+    "palavrasChave": ["coxinha de frango", "salgado de festa", "massa de coxinha", "receita de coxinha"],
+    "ingredientes": [
+      "Massa: 2 xícaras de caldo de frango, 2 xícaras de farinha de trigo, 1 colher de sopa de manteiga, sal",
+      "Recheio: 2 xícaras de frango cozido desfiado, 1/2 cebola, 2 colheres de sopa de requeijão, cheiro-verde",
+      "Empanar: 2 ovos batidos, 2 xícaras de farinha de rosca",
+      "Óleo para fritar"
+    ],
+    "passos": [
+      "Refogue a cebola, junte o frango, o requeijão e o cheiro-verde e reserve.",
+      "Ferva o caldo com a manteiga e o sal, adicione a farinha de uma vez e mexa sem parar até desgrudar da panela.",
+      "Sove a massa morna em superfície untada por 3 minutos, até ficar lisa.",
+      "Abra porções na mão, coloque o recheio e modele em formato de coxinha.",
+      "Passe no ovo e na farinha de rosca, pressionando bem.",
+      "Frite em óleo a 180 °C até dourar. Escorra em papel-toalha."
+    ],
+    "introducao": [
+      "O ponto da massa é o que decide a coxinha: ela precisa desgrudar da panela formando uma bola, mas ainda estar maleável. Massa cozida demais racha ao modelar; crua demais gruda na mão e abre na fritura.",
+      "O requeijão no recheio não é luxo: ele segura a umidade do frango e evita a coxinha seca por dentro."
+    ],
+    "dicas": [
+      "Meça o caldo: a proporção é 1 parte de caldo para 1 de farinha.",
+      "Sove a massa ainda morna, com as mãos untadas de óleo.",
+      "Se a massa esfriar e endurecer, volte à panela com 2 colheres de caldo.",
+      "Empane e congele antes de fritar; frite direto do freezer.",
+      "Óleo a 180 °C: um pedaço de massa deve subir borbulhando devagar."
+    ],
+    "variacoes": [
+      "Com catupiry: substitua o requeijão por catupiry.",
+      "Assada: pincele com ovo e asse a 200 °C por 25 minutos.",
+      "De carne: use carne moída refogada no lugar do frango."
+    ],
+    "conservacao": "Geladeira por 2 dias. Congele empanada por 3 meses, em saco fechado.",
+    "faq": [
+      {
+        "pergunta": "Por que a coxinha abriu na fritura?",
+        "resposta": "Massa seca ou empanado mal pressionado. Ajuste o caldo, sele bem as emendas e pressione a farinha de rosca."
+      },
+      {
+        "pergunta": "Posso fazer sem fritar?",
+        "resposta": "Sim, asse a 200 °C por 25 a 30 minutos, virando na metade. A casquinha fica menos crocante, mas funciona."
+      },
+      {
+        "pergunta": "Quanto rende a receita?",
+        "resposta": "Cerca de 25 coxinhas de 40 g. Para festa, dobre a receita mantendo a proporção."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 24,
+    "slug": "pudim-de-leite-condensado",
+    "titulo": "Pudim de leite condensado sem furinhos",
+    "categoria": "Sobremesas",
+    "imagem": "images/pudim-leite.jpg",
+    "descricao": "Pudim de leite condensado liso, sem furinhos, com calda de caramelo. Receita de 4 ingredientes, 1h30 de forno e 6 horas de geladeira.",
+    "chamada": "Pudim de textura lisa e calda brilhante — o segredo está na temperatura do banho-maria.",
+    "tempoTexto": "1h30 + 6 h de geladeira",
+    "minutosPreparo": 15,
+    "minutosFogo": 90,
+    "minutosEspera": 360,
+    "porcoes": "10 fatias",
+    "dificuldade": "Médio",
+    "palavrasChave": ["pudim de leite condensado", "pudim sem furinhos", "pudim de leite", "sobremesa clássica"],
+    "ingredientes": [
+      "1 lata (395 g) de leite condensado",
+      "2 latas (480 ml) de leite integral",
+      "3 ovos",
+      "Calda: 1 xícara de açúcar e 1/2 xícara de água"
+    ],
+    "passos": [
+      "Derreta o açúcar em fogo baixo até virar caramelo e junte a água com cuidado. Despeje na forma de pudim.",
+      "Bata no liquidificador o leite condensado, o leite e os ovos por 2 minutos em velocidade baixa, para não incorporar ar.",
+      "Coe a mistura para reter a espuma e despeje na forma caramelizada.",
+      "Asse em banho-maria, coberto com papel-alumínio, a 160 °C por 1h30.",
+      "O pudim está pronto quando o centro treme levemente ao balançar a forma.",
+      "Espere esfriar e leve à geladeira por 6 horas antes de desenformar."
+    ],
+    "introducao": [
+      "Furinhos no pudim são bolhas de ar: vêm de bater em velocidade alta ou de forno quente demais, que faz a mistura ferver. Bater devagar, coar e assar em banho-maria a 160 °C resolve os três.",
+      "A calda precisa ser feita antes e esfriar na forma; se estiver quente quando o pudim entrar, ela queima e amarga."
+    ],
+    "dicas": [
+      "Coe a mistura: esse passo é o que garante textura lisa.",
+      "Cubra com alumínio para o vapor não formar crosta.",
+      "Banho-maria com água quente, não fervendo.",
+      "Só desenforme depois de 6 horas de geladeira; pudim morno quebra.",
+      "Para desenformar, passe a faca na borda e mergulhe a forma em água quente por 20 segundos."
+    ],
+    "variacoes": [
+      "Com coco: acrescente 1/2 xícara de coco ralado à mistura.",
+      "De chocolate: adicione 3 colheres de chocolate em pó.",
+      "De micro-ondas: asse em forma própria por 3 minutos em potência média, deixe descansar 10 minutos e repita duas vezes."
+    ],
+    "conservacao": "Geladeira por 5 dias, coberto. Não congele: a textura fica granulada.",
+    "faq": [
+      {
+        "pergunta": "Por que o pudim ficou com furinhos?",
+        "resposta": "Ar incorporado ou forno alto. Bata em velocidade baixa, coe a mistura e asse a 160 °C em banho-maria."
+      },
+      {
+        "pergunta": "Posso assar em banho-maria no fogo?",
+        "resposta": "Pode, mas é mais difícil controlar a temperatura. No forno o resultado é mais uniforme."
+      },
+      {
+        "pergunta": "Quanto tempo leva para firmar?",
+        "resposta": "Cerca de 6 horas na geladeira. Menos que isso e o centro desmancha ao desenformar."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 25,
+    "slug": "escondidinho-de-carne-seca",
+    "titulo": "Escondidinho de carne-seca com purê cremoso",
+    "categoria": "Jantar",
+    "imagem": "images/escondidinho-carne.jpg",
+    "descricao": "Escondidinho de carne-seca desfiada com purê de mandioca cremoso e queijo gratinado. Rende 6 porções e é feito em uma travessa.",
+    "chamada": "Purê de mandioca sedoso, carne-seca desfiada e queijo gratinado: prato único para o jantar.",
+    "tempoTexto": "1 hora",
+    "minutosPreparo": 30,
+    "minutosFogo": 30,
+    "minutosEspera": 0,
+    "porcoes": "6 porções",
+    "dificuldade": "Médio",
+    "palavrasChave": ["escondidinho de carne seca", "escondidinho", "purê de mandioca", "receita nordestina"],
+    "ingredientes": [
+      "500 g de carne-seca dessalgada e cozida",
+      "1 kg de mandioca",
+      "1/2 xícara de leite",
+      "3 colheres de sopa de manteiga",
+      "1 cebola picada",
+      "2 dentes de alho",
+      "150 g de mussarela ralada",
+      "Sal e pimenta a gosto"
+    ],
+    "passos": [
+      "Cozinhe a mandioca até desmanchar e passe no espremedor ainda quente.",
+      "Misture o leite e 2 colheres de manteiga ao purê e tempere.",
+      "Refogue a cebola e o alho na manteiga restante, junte a carne-seca desfiada e doure.",
+      "Monte em refratário: purê, carne e purê novamente.",
+      "Cubra com mussarela e asse a 200 °C por 20 minutos.",
+      "Espere 5 minutos antes de servir."
+    ],
+    "introducao": [
+      "O purê de mandioca fica elástico quando esfria porque o amido se retrai. Acrescentar leite quente e servir imediatamente mantém a cremosidade. Se precisar esperar, mantenha em banho-maria.",
+      "A carne-seca precisa ser dessalgada com 24 horas de antecedência, trocando a água várias vezes. Sem isso, o prato fica salgado demais para corrigir depois."
+    ],
+    "dicas": [
+      "Esprema a mandioca quente: fria, forma grumos.",
+      "Dessalgue a carne na geladeira, trocando a água a cada 6 horas.",
+      "Se usar carne seca pronta e desfiada, prove antes de temperar.",
+      "Para gratinar, ligue o grill nos últimos 5 minutos.",
+      "Purê mais leve: troque metade da mandioca por batata."
+    ],
+    "variacoes": [
+      "Com frango: substitua a carne-seca por frango desfiado temperado.",
+      "Com catupiry: espalhe uma camada de catupiry sobre a carne.",
+      "Vegetariano: use cogumelos refogados no lugar da carne."
+    ],
+    "conservacao": "Geladeira por 3 dias. Reaqueça coberto a 180 °C por 15 minutos.",
+    "faq": [
+      {
+        "pergunta": "Quanto tempo dessalgar a carne-seca?",
+        "resposta": "24 horas na geladeira, trocando a água a cada 6 horas. Pedaços menores dessalgam em 12 horas."
+      },
+      {
+        "pergunta": "Posso usar mandioca congelada?",
+        "resposta": "Sim, cozinhe direto do congelamento e escorra muito bem antes de amassar."
+      },
+      {
+        "pergunta": "Dá para montar na véspera?",
+        "resposta": "Pode montar e guardar na geladeira; asse por 25 minutos no dia seguinte."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 26,
+    "slug": "suco-de-laranja-com-cenoura",
+    "titulo": "Suco de laranja com cenoura e gengibre",
+    "categoria": "Bebidas",
+    "imagem": "images/suco-laranja-cenoura.jpg",
+    "descricao": "Suco natural de laranja com cenoura e um toque de gengibre. Rende 2 copos, pronto em 5 minutos e sem açúcar.",
+    "chamada": "Suco de cafeteria em casa: laranja, cenoura e gengibre na proporção certa, sem açúcar.",
+    "tempoTexto": "5 min",
+    "minutosPreparo": 5,
+    "minutosFogo": 0,
+    "minutosEspera": 0,
+    "porcoes": "2 copos",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["suco de laranja com cenoura", "suco natural", "suco detox", "bebida saudável"],
+    "ingredientes": [
+      "3 laranjas pera ou lima",
+      "1 cenoura média",
+      "1 pedaço de 2 cm de gengibre",
+      "1/2 xícara de água gelada",
+      "Gelo a gosto"
+    ],
+    "passos": [
+      "Esprema as laranjas e reserve o suco.",
+      "Bata a cenoura com a água no liquidificador por 1 minuto e coe.",
+      "Misture o suco de cenoura ao de laranja e acrescente o gengibre ralado.",
+      "Sirva imediatamente com gelo."
+    ],
+    "introducao": [
+      "Cenoura crua no liquidificador sem água vira uma pasta difícil de coar. Bater com meia xícara de água e coar depois mantém o suco límpido e preserva o sabor da laranja.",
+      "O gengibre deve ser ralado, não batido: batido, ele amarga e deixa fibras no suco."
+    ],
+    "dicas": [
+      "Laranja gelada rende mais suco.",
+      "Não bata o gengibre junto — rale e misture.",
+      "Coe com peneira fina para textura de suco, não de vitamina.",
+      "Se quiser mais doce, use uma cenoura maior em vez de açúcar.",
+      "Consuma na hora: vitamina C se perde com o tempo."
+    ],
+    "variacoes": [
+      "Com maçã: acrescente 1 maçã sem semente para adoçar.",
+      "Com hortelã: bata 5 folhas junto com a cenoura.",
+      "Com beterraba: troque metade da cenoura por beterraba."
+    ],
+    "conservacao": "Geladeira por 24 horas em garrafa fechada. Agite antes de beber.",
+    "faq": [
+      {
+        "pergunta": "Posso fazer na centrífuga?",
+        "resposta": "Sim, é até melhor: a centrífuga separa o bagaço sem precisar coar."
+      },
+      {
+        "pergunta": "Precisa coar?",
+        "resposta": "Não é obrigatório. Sem coar, vira uma bebida mais espessa, com fibras — só não fica com aparência de suco."
+      },
+      {
+        "pergunta": "Dá para congelar?",
+        "resposta": "Pode congelar em cubos e bater depois, mas o sabor fica menos fresco."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 27,
+    "slug": "torta-de-limao",
+    "titulo": "Torta de limão com merengue",
+    "categoria": "Sobremesas",
+    "imagem": "images/torta-limao.jpg",
+    "descricao": "Torta de limão com massa de biscoito, recheio cremoso e merengue maçaricado. Rende 8 fatias e não vai ao forno.",
+    "chamada": "Base crocante, creme de limão azedinho e merengue dourado — sobremesa de domingo sem complicação.",
+    "tempoTexto": "40 min + 4 h de geladeira",
+    "minutosPreparo": 40,
+    "minutosFogo": 10,
+    "minutosEspera": 240,
+    "porcoes": "8 fatias",
+    "dificuldade": "Médio",
+    "palavrasChave": ["torta de limão", "torta de limão com merengue", "sobremesa gelada", "receita de torta"],
+    "ingredientes": [
+      "Base: 200 g de biscoito maisena, 100 g de manteiga derretida",
+      "Recheio: 1 lata de leite condensado, 1/2 xícara de suco de limão, 1 caixa de creme de leite",
+      "Merengue: 3 claras, 3/4 xícara de açúcar, 1 pitada de sal"
+    ],
+    "passos": [
+      "Triture o biscoito e misture com a manteiga até dar liga. Forre o fundo e as laterais de uma forma de fundo removível.",
+      "Leve a base à geladeira por 20 minutos.",
+      "Bata o leite condensado com o suco de limão até engrossar, junte o creme de leite e misture.",
+      "Despeje sobre a base e leve à geladeira por 4 horas.",
+      "Bata as claras com o sal e acrescente o açúcar aos poucos até formar picos firmes.",
+      "Cubra a torta, doure com maçarico ou no forno em grill por 3 minutos e sirva gelada."
+    ],
+    "introducao": [
+      "O creme de limão engrossa por reação da acidez com o leite condensado, sem gelatina. Por isso o suco precisa ser coado e a mistura batida até ficar densa antes de entrar na forma.",
+      "Merengue com gotas de creme ou gordura não firma. Lave bem a tigela e bata as claras em temperatura ambiente."
+    ],
+    "dicas": [
+      "Suco de limão coado evita pedaços e sementes.",
+      "Não use limão engarrafado: o sabor é metálico.",
+      "Asse a base se quiser mais firmeza: 180 °C por 10 minutos.",
+      "Merengue mais estável: cozinhe as claras com o açúcar em banho-maria até 65 °C antes de bater.",
+      "Doure o merengue longe do fundo do forno para não cozinhar o recheio."
+    ],
+    "variacoes": [
+      "Sem merengue: cubra com chantilly.",
+      "Com raspas: acrescente raspas de limão ao creme.",
+      "De limão siciliano: use o suco de 2 limões sicilianos, mais aromático e menos ácido."
+    ],
+    "conservacao": "Geladeira por 3 dias, coberta. Não congele.",
+    "faq": [
+      {
+        "pergunta": "Por que o recheio não firmou?",
+        "resposta": "Pouco limão ou mistura pouco batida. Use a medida da receita e bata até o creme engrossar visivelmente."
+      },
+      {
+        "pergunta": "Posso usar forma sem fundo removível?",
+        "resposta": "Pode, mas fica difícil desenformar. Nesse caso, monte em taças como sobremesa em camadas."
+      },
+      {
+        "pergunta": "Quanto tempo na geladeira?",
+        "resposta": "No mínimo 4 horas. De um dia para o outro fica ainda melhor."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 28,
+    "slug": "arroz-carreteiro",
+    "titulo": "Arroz carreteiro com carne-seca",
+    "categoria": "Almoço",
+    "imagem": "images/arroz-carreteiro.jpg",
+    "descricao": "Arroz carreteiro com carne-seca desfiada, cebola e cheiro-verde. Prato único gaúcho, rende 4 porções e fica pronto em 40 minutos.",
+    "chamada": "Arroz soltinho cozido no caldo da carne-seca: prato único, econômico e cheio de sabor.",
+    "tempoTexto": "40 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 30,
+    "minutosEspera": 0,
+    "porcoes": "4 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["arroz carreteiro", "carreteiro de carne seca", "receita gaúcha", "prato único"],
+    "ingredientes": [
+      "2 xícaras de arroz branco",
+      "300 g de carne-seca dessalgada, cozida e desfiada",
+      "1 cebola grande picada",
+      "3 dentes de alho",
+      "3 colheres de sopa de óleo",
+      "4 xícaras de água quente (ou caldo do cozimento)",
+      "Cheiro-verde, sal e pimenta a gosto"
+    ],
+    "passos": [
+      "Refogue a cebola no óleo até dourar e junte o alho.",
+      "Acrescente a carne-seca e deixe dourar por 5 minutos.",
+      "Junte o arroz e refogue por 2 minutos, mexendo.",
+      "Adicione a água quente, ajuste o sal e cozinhe tampado em fogo baixo por 18 minutos.",
+      "Desligue, misture o cheiro-verde e deixe descansar 5 minutos."
+    ],
+    "introducao": [
+      "Carreteiro é arroz cozido no caldo da carne, e não arroz cozido à parte com carne por cima. O refogado da carne antes do arroz é o que impregna o grão.",
+      "A carne-seca já é salgada: prove o caldo antes de acrescentar sal. Esse é o erro mais comum da receita."
+    ],
+    "dicas": [
+      "Dessalgue a carne 24 h antes, trocando a água.",
+      "Use o caldo do cozimento da carne no lugar da água.",
+      "Arroz soltinho: não mexa depois de colocar a água.",
+      "Se usar carne de lata, escorra e reduza o sal.",
+      "Finalize com ovo frito por cima para versão mais completa."
+    ],
+    "variacoes": [
+      "Com linguiça: acrescente 100 g de linguiça em cubos.",
+      "Com legumes: junte cenoura e pimentão picados.",
+      "Vegetariano: use cogumelos e caldo de legumes."
+    ],
+    "conservacao": "Geladeira por 3 dias. Reaqueça na frigideira com 2 colheres de água.",
+    "faq": [
+      {
+        "pergunta": "Posso usar carne seca pronta?",
+        "resposta": "Sim, a desfiada de saquinho funciona. Prove antes de salgar e refogue com cebola para ganhar sabor."
+      },
+      {
+        "pergunta": "Por que o arroz ficou empapado?",
+        "resposta": "Água demais ou panela destampada. Use a proporção de 2 xícaras de água para 1 de arroz e mantenha tampado."
+      },
+      {
+        "pergunta": "Dá para fazer na panela de pressão?",
+        "resposta": "Pode, mas o arroz cozinha em 6 minutos. Refogue tudo, adicione a água e conte 6 minutos após pegar pressão."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 29,
+    "slug": "salpicao-de-frango",
+    "titulo": "Salpicão de frango cremoso",
+    "categoria": "Almoço",
+    "imagem": "images/salpicao-frango.jpg",
+    "descricao": "Salpicão de frango com maionese, cenoura, milho, uva-passa e batata palha. Rende 6 porções e é servido gelado.",
+    "chamada": "Salada de festa brasileira: frango desfiado, legumes crocantes e molho cremoso na medida.",
+    "tempoTexto": "25 min",
+    "minutosPreparo": 25,
+    "minutosFogo": 0,
+    "minutosEspera": 60,
+    "porcoes": "6 porções",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["salpicão de frango", "salpicão", "salada de frango", "receita para festa"],
+    "ingredientes": [
+      "3 xícaras de frango cozido e desfiado",
+      "1 cenoura ralada grossa",
+      "1 xícara de milho escorrido",
+      "1/2 xícara de uva-passa (opcional)",
+      "1 maçã verde em cubos",
+      "1 xícara de maionese",
+      "1/2 xícara de creme de leite",
+      "2 colheres de sopa de mostarda",
+      "Batata palha para servir"
+    ],
+    "passos": [
+      "Misture o frango, a cenoura, o milho, a maçã e a uva-passa.",
+      "Misture a maionese, o creme de leite e a mostarda separadamente.",
+      "Junte o molho ao frango e misture bem.",
+      "Leve à geladeira por 1 hora.",
+      "Acrescente a batata palha só na hora de servir."
+    ],
+    "introducao": [
+      "Salpicão é uma salada de contraste: cremoso do molho, crocante da cenoura e da batata, doce da maçã e da uva-passa. Se tudo for macio, vira pasta.",
+      "A batata palha entra por último porque amolece em 20 minutos. Deixe à parte e cada um coloca no prato."
+    ],
+    "dicas": [
+      "Frango bem desfiado e sem pele.",
+      "Maçã verde mantém a crocância; a vermelha amolece.",
+      "Molho mais leve: metade maionese, metade iogurte grego.",
+      "Deixe descansar 1 hora para o sabor se integrar.",
+      "Sirva em travessa rasa, não em tigela funda."
+    ],
+    "variacoes": [
+      "Com abacaxi: troque a maçã por abacaxi em cubos.",
+      "Com presunto: acrescente 100 g de presunto em tiras.",
+      "Sem maionese: use creme de leite com mostarda e azeite."
+    ],
+    "conservacao": "Geladeira por 2 dias, sem a batata palha. Não congele.",
+    "faq": [
+      {
+        "pergunta": "Posso usar frango assado?",
+        "resposta": "Sim, sobras de frango assado funcionam muito bem. Retire a pele e desfie."
+      },
+      {
+        "pergunta": "Por que o salpicão soltou água?",
+        "resposta": "Cenoura ou milho mal escorridos. Seque a cenoura em papel-toalha e escorra o milho por 5 minutos."
+      },
+      {
+        "pergunta": "Quanto tempo pode ficar fora da geladeira?",
+        "resposta": "No máximo 2 horas em temperatura ambiente, por causa da maionese."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  },
+  {
+    "ordem": 30,
+    "slug": "bolo-de-milho-cremoso",
+    "titulo": "Bolo de milho cremoso de liquidificador",
+    "categoria": "Café da manhã",
+    "imagem": "images/bolo-milho.jpg",
+    "descricao": "Bolo de milho cremoso com milho verde, leite condensado e coco. Rende 10 fatias e leva 45 minutos de forno.",
+    "chamada": "Bolo de milho úmido, com pedaços de grão e casquinha dourada — o sabor de festa junina o ano inteiro.",
+    "tempoTexto": "55 min",
+    "minutosPreparo": 10,
+    "minutosFogo": 45,
+    "minutosEspera": 20,
+    "porcoes": "10 fatias",
+    "dificuldade": "Fácil",
+    "palavrasChave": ["bolo de milho", "bolo de milho cremoso", "bolo de liquidificador", "receita junina"],
+    "ingredientes": [
+      "1 lata de milho verde escorrido (300 g)",
+      "1 lata de leite condensado",
+      "1 xícara de leite",
+      "3 ovos",
+      "3 colheres de sopa de manteiga derretida",
+      "1 xícara de fubá",
+      "1/2 xícara de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "1/2 xícara de coco ralado"
+    ],
+    "passos": [
+      "Bata no liquidificador o milho, o leite condensado, o leite, os ovos e a manteiga por 2 minutos.",
+      "Acrescente o fubá, a farinha e o coco e bata até homogêneo.",
+      "Misture o fermento com espátula.",
+      "Despeje em forma untada e asse a 180 °C por 40 a 45 minutos.",
+      "Espere amornar antes de cortar."
+    ],
+    "introducao": [
+      "Bolo de milho cremoso precisa de milho de verdade, não só fubá. O grão dá umidade e pedaços que o fubá sozinho não reproduz.",
+      "A manteiga derretida e o leite condensado são o que mantêm o miolo úmido por dias — por isso a receita não leva açúcar: o leite condensado já adoça."
+    ],
+    "dicas": [
+      "Escorra bem o milho antes de bater.",
+      "Bata o milho primeiro com os líquidos para não sobrar grão inteiro.",
+      "Não bata o fermento: ele perde força.",
+      "Forma retangular assa por igual e rende mais fatias.",
+      "Se gostar de pedaços, reserve 2 colheres de milho e misture no fim."
+    ],
+    "variacoes": [
+      "Com queijo: acrescente 100 g de queijo meia-cura ralado.",
+      "Sem coco: substitua por 1 colher de essência de baunilha.",
+      "Integral: troque a farinha branca por integral e acrescente 2 colheres de leite."
+    ],
+    "conservacao": "Pote fechado por 3 dias ou geladeira por 5. Congele fatias por 2 meses.",
+    "faq": [
+      {
+        "pergunta": "Posso usar milho de lata com água?",
+        "resposta": "Escorra bem e descarte a água, que tem gosto forte. Se usar milho congelado, cozinhe antes por 5 minutos."
+      },
+      {
+        "pergunta": "Por que o bolo ficou pesado?",
+        "resposta": "Excesso de fubá ou fermento batido no liquidificador. Mantenha as proporções e misture o fermento à mão."
+      },
+      {
+        "pergunta": "Dá para fazer sem leite condensado?",
+        "resposta": "Pode substituir por 1 xícara de açúcar e 1/2 xícara de leite, mas o bolo fica menos cremoso."
+      }
+    ],
+    "publicado": "2026-11-04",
+    "atualizado": "2026-11-04"
+  }
+]
