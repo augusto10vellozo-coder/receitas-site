@@ -1,6 +1,7 @@
 # Sabor de Casa — receitassabordecasa.com.br
 
 [![CI](https://github.com/augusto10vellozo-coder/receitas-site/actions/workflows/ci.yml/badge.svg)](https://github.com/augusto10vellozo-coder/receitas-site/actions/workflows/ci.yml)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-100%2F100%2F100-2ea44f?style=flat-square)
 
 Site estático de receitas. HTML gerado por um script Node a partir dos dados em `/dados`.
 
