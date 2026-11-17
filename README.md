@@ -2,6 +2,10 @@
 
 Site estático de receitas. HTML gerado por um script Node a partir dos dados em `/dados`.
 
+**No ar:** [receitassabordecasa.com.br](https://receitassabordecasa.com.br)
+
+[![Página inicial do Sabor de Casa](docs/preview.jpg)](https://receitassabordecasa.com.br)
+
 ## Estrutura
 
 ```
