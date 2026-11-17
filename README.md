@@ -1,5 +1,7 @@
 # Sabor de Casa — receitassabordecasa.com.br
 
+[![CI](https://github.com/augusto10vellozo-coder/receitas-site/actions/workflows/ci.yml/badge.svg)](https://github.com/augusto10vellozo-coder/receitas-site/actions/workflows/ci.yml)
+
 Site estático de receitas. HTML gerado por um script Node a partir dos dados em `/dados`.
 
 **No ar:** [receitassabordecasa.com.br](https://receitassabordecasa.com.br)
